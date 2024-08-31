@@ -4,7 +4,7 @@
     <img src="https://himitsu2.vercel.app/assets/icon/chrome-512.png" alt="Himitsu logo" title="Himitsu logo" width="80"/>
 </a>
 
-# Himitsu [Website](#)²
+# Himitsu [Website](https://repodevil.netlify.app)
 
 ### Himitsu ㊙
 `Anime. Manga. Tracking. Streaming. Socializing. What if doing all that only required one app?`
@@ -33,3 +33,8 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 </pre>
 
 </div>
+
+<br />
+<p align="center">
+<img src="https://count.getloli.com/get/@:repodevildantotsu" alt=":repodevildantotsu" />
+</p>

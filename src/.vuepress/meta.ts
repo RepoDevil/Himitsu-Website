@@ -2,14 +2,14 @@ const locales = {
   "/": {
   lang: "en-US",
   title: "Himitsu",
-  description: "A secret so good that even the name is banned.",
+  description: "We who shall not be named",
   },
   "/ES/": {
       lang: "es-ES",
       title: "Himitsu",
       description: "Un secreto tan bueno que hasta el nombre está prohibido.",
   },
-  
+
   "/zh-cn/": {
   lang: "zh-CN",
   title: "Himitsu",
@@ -19,7 +19,7 @@ const locales = {
   lang: "zh-TW",
   title: "Himitsu",
   description: "一個如此美好的秘密，連名字都被禁止。",
-  },  
+  },
   "/de/": {
       lang: "de-DE",
       title: "Himitsu",
@@ -86,5 +86,5 @@ const locales = {
       description: "Een geheim zo goed dat zelfs de naam verboden is.",
   },
   };
-  
+
   export default locales;

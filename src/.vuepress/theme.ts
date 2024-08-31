@@ -7,7 +7,7 @@ export default hopeTheme({
     end: ["Links", "Language", "Outlook", "Repo"],
   },
 
-  hostname: "https://animecross.xyz",
+  hostname: "https://repodevil.netlify.app",
 
   author: {
     name: "Moonpic",
@@ -15,7 +15,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome",
 
-  repo: "moonpic/website",
+  repo: "RepoDevil/Himitsu",
   docsDir: "src",
 
   locales: localesconfig,
@@ -24,10 +24,10 @@ export default hopeTheme({
     docsearch: {
       appId: 'X0VGF1D6HR',
       apiKey: '70daba0e597f1fdfaf2c93e7719a5633',
-      indexName: 'himitsu2',
+      indexName: 'repodevil',
       locales: locales2,
     },
-    
+
     comment: {
       provider: "Giscus",
       repo: "vuepress-theme-hope/giscus-discussions",
