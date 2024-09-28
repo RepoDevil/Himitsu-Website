@@ -6,12 +6,13 @@
 
 # Himitsu [Website](https://repodevil.netlify.app)
 
-### Himitsu ㊙
 `Anime. Manga. Streaming. Tracking. Socializing. What if you could do it all with only one app?`
 
-[![Discord server](https://img.shields.io/discord/464998866639650839.svg?label=&labelColor=6A7EC2&color=7389D8&logo=discord&logoColor=FFFFFF)](https://discord.gg/vnrhgrt)
-[![GitHub downloads](https://img.shields.io/github/downloads/tsubakibot/tsubakibuilder/total?label=downloads&labelColor=27303D&color=0D1117&logo=github&logoColor=FFFFFF&style=flat)](https://repodevil.netlify.app/download/)
 ![Website Deploy](https://deploy-badge.vercel.app/?url=https://himitsu2.vercel.app/&name=Himitsu)
+
+<p align="center">
+<a href="https://discord.gg/vnrhgrt"><img src="https://invidget.switchblade.xyz/vnrhgrt"></a>
+</p>
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -20,7 +21,7 @@ If you have any questions, [join our Discord server](https://discord.gg/vnrhgrt)
 
 ### Disclaimer
 
-The developer(s) of this application does not have any affiliation with the content providers available, and this application hosts zero content.
+The developer(s) of this application have no affiliation with the content providers and no content is hosted by the application.
 
 ### License
 
