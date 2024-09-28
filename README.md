@@ -21,7 +21,7 @@ If you have any questions, [join our Discord server](https://discord.gg/vnrhgrt)
 
 ### Disclaimer
 
-The developer(s) of this application have no affiliation with the content providers and no content is hosted by the application.
+The developer(s) of this application have no affiliation with any content providers and no content is hosted by the application or its developer(s).
 
 ### License
 
