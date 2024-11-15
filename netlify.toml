@@ -1,11 +1,11 @@
 [[redirects]]
   from = "/anime/*"
   to = "/"
-  status = 404
+  status = 302
   force = true
 
 [[redirects]]
   from = "/manga/*"
   to = "/"
-  status = 404
+  status = 302
   force = true
