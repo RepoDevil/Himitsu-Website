@@ -3,10 +3,10 @@ import { sidebar } from "vuepress-theme-hope";
 export const esSidebar = sidebar({
   "/ES/": [
     { text: 'Descargar', link: '/ES/Descargar/' },
-    { text: 'Registro de cambios', link: '/ES/changelogs/' },  
-    { text: 'Bifurcaciones', link: '/ES/forks/' },
+    { text: 'Registro de cambios', link: '/ES/changelogs/' },
+    { text: 'Alternativas', link: '/ES/others/' },
     { text: 'Contribuir', link: '/ES/docs/contribute' },
-    
+
     {
       text: "Guias",
       icon: "book",
