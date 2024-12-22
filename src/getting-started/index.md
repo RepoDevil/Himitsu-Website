@@ -52,6 +52,16 @@ Himitsu will not provide any support for unofficial extensions. Beware that any 
 
 ## Additional setup
 
+### Home UI navigation
+
+- In UI settings, there are options to enable / disable the AI recommendation (Sprout) and AniList Forum buttons
+- Long pressing the avatar on the home screen opens the notification page
+- Clicking the avatar on the home screen opens the dialog
+- Long pressing the user avatar in the dialog will display / hide incognito and client mode switches
+- Long pressing notifications in the dialog will open the activities page
+- Clicking notifications in the dialog will open the notification page
+- The inbox icon on the notification page will open the activities page
+
 ### Series search options
 
 If you want to search for series across all your sources, you can use the Reverse Source Search feature.
@@ -59,8 +69,8 @@ If you want to search for series across all your sources, you can use the Revers
 Follow these steps:
 
 1. Click on the icon at the top right of the screen.
-1. Now click on the search bar
-1. Use the Search bar to find series from all available sources.
+2. Now click on the search bar and enter your text.
+3. Click an item to open through the app or long press for more options.
 
 ### Trouble finding a title?
 
