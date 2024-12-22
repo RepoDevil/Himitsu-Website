@@ -68,9 +68,9 @@ If you want to search for series across all your sources, you can use the Revers
 
 Follow these steps:
 
-1. Click on the icon at the top right of the screen.
-2. Now click on the search bar and enter your text.
-3. Click an item to open through the app or long press for more options.
+1. Click on the icon at the top right to open the quick settings dialog.
+2. Click on the search bar and enter some search text.
+3. Click an item to find it from AniList or long press for more options.
 
 ### Trouble finding a title?
 
@@ -90,7 +90,7 @@ Long press the item cover image to open the list editor and add, modify, or dele
 
 ### Source prioritization
 
-Himitsu offers a special feature to help find sources that offer a specific title.
+Himitsu offers a special feature to help filter sources that offer a specific title.
 
 * `Settings => Common => Prioritize source list` will list sources with an item at the top
 * `Settings => Common => Source search timeout` will determine how long to search a source
