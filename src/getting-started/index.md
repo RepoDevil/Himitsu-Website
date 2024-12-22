@@ -62,7 +62,7 @@ Follow these steps:
 1. Now click on the search bar
 1. Use the Search bar to find series from all available sources.
 
-### Trouble finding a specific series?
+### Trouble finding a title?
 
 If you encounter difficulties while searching for a specific series, consider the following points:
 
@@ -74,6 +74,6 @@ If you encounter difficulties while searching for a specific series, consider th
 
   > Example: **3-gatsu no Lion** instead of **Sangatsu no Lion**.
 
-### Adding progress from other sources
+### Adding external progress
 
 Long press the item cover image to open the list editor and add, modify, or delete progress
