@@ -31,7 +31,7 @@ Once **Himitsu** is installed on your device, you can bring your own content to 
 ::: tabs
 
 @tab External repositories
-External repositories add additional sources to **Himitsu**. You can add external repositories by clicking the icon in the top right and selecting `Settings -> Extensions` and tapping **Add [Type] Repo** for the repo type (Anime, Manga, or Novels).
+External repositories add additional sources to **Himitsu**. You can add external repositories by clicking the icon in the top right and selecting `Settings => Extensions` and tapping **Add [Type] Repo** for the repo type (Anime, Manga, or Novels).
 
 Once there, you can add repositories by inputting the repository URLs ending with `index.min.json`.
 
@@ -100,4 +100,4 @@ Himitsu offers a special feature to help filter sources that offer a specific ti
 - Clicking a torrent will prompt to enable torrent access temporarily (preferred)
 - `Settings => Anime => Internal TorrServer` will enable persistent torrent access
 
-Once enabled, simply launch a torrent item to begin watching it
+Once enabled, clicking a torrent will launch it using the regular video player
