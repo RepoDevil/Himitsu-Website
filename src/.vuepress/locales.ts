@@ -99,7 +99,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'Laai af', link: '/af/download/' },
       { text: 'Veranderlogs', link: '/af/changelogs/' },
-      { text: 'Vurke', link: '/af/forks/' },
+      { text: 'Vurke', link: '/af/others/' },
       { text: 'Bydra', link: '/af/docs/contribute' },
       {
         text: "Riglyne",
@@ -155,7 +155,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'تحميل', link: '/ar/download/' },
       { text: 'سجل التغييرات', link: '/ar/changelogs/' },
-      { text: 'فروكس', link: '/ar/forks/' },
+      { text: 'فروكس', link: '/ar/others/' },
       { text: 'المساهمة', link: '/ar/docs/contribute' },
       {
         text: "الدلائل",
@@ -211,7 +211,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'ডাউনলোড', link: '/as/download/' },
       { text: 'পালনাতলিকা', link: '/as/changelogs/' },
-      { text: 'ফৰ্কসমূহ', link: '/as/forks/' },
+      { text: 'ফৰ্কসমূহ', link: '/as/others/' },
       { text: 'অবদান দিব', link: '/as/docs/contribute' },
       {
         text: "নিৰ্দেশিকা",
@@ -267,7 +267,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'Baixa', link: '/ca/download/' },
       { text: 'Canvis', link: '/ca/changelogs/' },
-      { text: 'Forks', link: '/ca/forks/' },
+      { text: 'Alternatives', link: '/ca/others/' },
       { text: 'Contribueix', link: '/ca/docs/contribute' },
       {
         text: "Guies",
@@ -323,7 +323,7 @@ export const localesconfig = {
     sidebar: [
       { text: '下载', link: '/zh/download/' },
       { text: '变更日志', link: '/zh/changelogs/' },
-      { text: '分支', link: '/zh/forks/' },
+      { text: '分支', link: '/zh/others/' },
       { text: '贡献', link: '/zh/docs/contribute' },
       {
         text: "指南",
@@ -379,7 +379,7 @@ export const localesconfig = {
     sidebar: [
         { text: '下载', link: '/zh-Hans/download/' },
         { text: '变更日志', link: '/zh-Hans/changelogs/' },
-        { text: '分支', link: '/zh-Hans/forks/' },
+        { text: '分支', link: '/zh-Hans/others/' },
         { text: '贡献', link: '/zh-Hans/docs/contribute' },
         {
             text: "指南",
@@ -435,7 +435,7 @@ export const localesconfig = {
     sidebar: [
         { text: '下載', link: '/zh-Hant/download/' },
         { text: '變更日誌', link: '/zh-Hant/changelogs/' },
-        { text: '分叉', link: '/zh-Hant/forks/' },
+        { text: '分叉', link: '/zh-Hant/others/' },
         { text: '貢獻', link: '/zh-Hant/docs/contribute' },
         {
             text: "指南",
@@ -491,7 +491,7 @@ export const localesconfig = {
     sidebar: [
         { text: 'Stáhnout', link: '/cs/download/' },
         { text: 'Změny', link: '/cs/changelogs/' },
-        { text: 'Forky', link: '/cs/forks/' },
+        { text: 'Forky', link: '/cs/others/' },
         { text: 'Přispět', link: '/cs/docs/contribute' },
         {
             text: "Průvodci",
@@ -547,7 +547,7 @@ export const localesconfig = {
     sidebar: [
         { text: 'Download', link: '/da/download/' },
         { text: 'Ændringslog', link: '/da/changelogs/' },
-        { text: 'Forgreninger', link: '/da/forks/' },
+        { text: 'Forgreninger', link: '/da/others/' },
         { text: 'Bidrag', link: '/da/docs/contribute' },
         {
             text: "Guides",
@@ -603,7 +603,7 @@ export const localesconfig = {
     sidebar: [
         { text: 'Downloaden', link: '/nl/download/' },
         { text: 'Wijzigingen', link: '/nl/changelogs/' },
-        { text: 'Forks', link: '/nl/forks/' },
+        { text: 'Alternatives', link: '/nl/others/' },
         { text: 'Bijdragen', link: '/nl/docs/contribute' },
         {
             text: "Handleidingen",
@@ -659,7 +659,7 @@ export const localesconfig = {
     sidebar: [
         { text: 'Lataa', link: '/fi/download/' },
         { text: 'Muutosloki', link: '/fi/changelogs/' },
-        { text: 'Haarat', link: '/fi/forks/' },
+        { text: 'Haarat', link: '/fi/others/' },
         { text: 'Osallistu', link: '/fi/docs/contribute' },
         {
             text: "Oppaat",
@@ -715,7 +715,7 @@ export const localesconfig = {
     sidebar: [
         { text: 'Télécharger', link: '/fr/download/' },
         { text: 'Changements', link: '/fr/changelogs/' },
-        { text: 'Forks', link: '/fr/forks/' },
+        { text: 'Alternatives', link: '/fr/others/' },
         { text: 'Contribuer', link: '/fr/docs/contribute' },
         {
             text: "Guides",
@@ -771,7 +771,7 @@ export const localesconfig = {
     sidebar: [
         { text: 'Herunterladen', link: '/de/download/' },
         { text: 'Änderungsprotokoll', link: '/de/changelogs/' },
-        { text: 'Forks', link: '/de/forks/' },
+        { text: 'Alternatives', link: '/de/others/' },
         { text: 'Beitragen', link: '/de/docs/contribute' },
         {
             text: "Anleitungen",
@@ -827,7 +827,7 @@ export const localesconfig = {
     sidebar: [
         { text: 'Λήψη', link: '/el/download/' },
         { text: 'Αλλαγές', link: '/el/changelogs/' },
-        { text: 'Παρακλάδια', link: '/el/forks/' },
+        { text: 'Παρακλάδια', link: '/el/others/' },
         { text: 'Συνεισφέρετε', link: '/el/docs/contribute' },
         {
             text: "Οδηγοί",
@@ -883,7 +883,7 @@ export const localesconfig = {
     sidebar: [
         { text: 'הורדה', link: '/he/download/' },
         { text: 'שינויים', link: '/he/changelogs/' },
-        { text: 'התנפצויות', link: '/he/forks/' },
+        { text: 'התנפצויות', link: '/he/others/' },
         { text: 'תרמו', link: '/he/docs/contribute' },
         {
             text: "מדריכים",
@@ -939,7 +939,7 @@ export const localesconfig = {
     sidebar: [
         { text: 'डाउनलोड', link: '/hi/download/' },
         { text: 'परिवर्तन विवरण', link: '/hi/changelogs/' },
-        { text: 'फोर्क्स', link: '/hi/forks/' },
+        { text: 'फोर्क्स', link: '/hi/others/' },
         { text: 'योगदान', link: '/hi/docs/contribute' },
         {
             text: "मार्गदर्शिकाएँ",
@@ -995,7 +995,7 @@ export const localesconfig = {
     sidebar: [
         { text: 'Letöltés', link: '/hu/download/' },
         { text: 'Változások', link: '/hu/changelogs/' },
-        { text: 'Forkok', link: '/hu/forks/' },
+        { text: 'Forkok', link: '/hu/others/' },
         { text: 'Hozzájárulás', link: '/hu/docs/contribute' },
         {
             text: "Útmutatók",
@@ -1051,7 +1051,7 @@ export const localesconfig = {
     sidebar: [
         { text: 'Scarica', link: '/it/download/' },
         { text: 'Cronologia delle modifiche', link: '/it/changelogs/' },
-        { text: 'Fork', link: '/it/forks/' },
+        { text: 'Fork', link: '/it/others/' },
         { text: 'Contribuisci', link: '/it/docs/contribute' },
         {
             text: "Guide",
@@ -1107,7 +1107,7 @@ export const localesconfig = {
     sidebar: [
         { text: 'ダウンロード', link: '/ja/download/' },
         { text: '変更履歴', link: '/ja/changelogs/' },
-        { text: 'フォーク', link: '/ja/forks/' },
+        { text: 'フォーク', link: '/ja/others/' },
         { text: '貢献する', link: '/ja/docs/contribute' },
         {
             text: "ガイド",
@@ -1163,7 +1163,7 @@ export const localesconfig = {
     sidebar: [
         { text: '다운로드', link: '/ko/download/' },
         { text: '변경 내역', link: '/ko/changelogs/' },
-        { text: '포크', link: '/ko/forks/' },
+        { text: '포크', link: '/ko/others/' },
         { text: '기여하기', link: '/ko/docs/contribute' },
         {
             text: "가이드",
@@ -1219,7 +1219,7 @@ export const localesconfig = {
   sidebar: [
       { text: 'Nedlasting', link: '/nb/download/' },
       { text: 'Endringslogger', link: '/nb/changelogs/' },
-      { text: 'Forgreninger', link: '/nb/forks/' },
+      { text: 'Forgreninger', link: '/nb/others/' },
       { text: 'Bidra', link: '/nb/docs/contribute' },
       {
           text: "Guider",
@@ -1275,7 +1275,7 @@ export const localesconfig = {
   sidebar: [
       { text: 'Pobierz', link: '/pl/download/' },
       { text: 'Dziennik zmian', link: '/pl/changelogs/' },
-      { text: 'Rozgałęzienia', link: '/pl/forks/' },
+      { text: 'Rozgałęzienia', link: '/pl/others/' },
       { text: 'Współtwórz', link: '/pl/docs/contribute' },
       {
           text: "Przewodniki",
@@ -1331,7 +1331,7 @@ export const localesconfig = {
   sidebar: [
       { text: 'Baixar', link: '/pt/download/' },
       { text: 'Registro de alterações', link: '/pt/changelogs/' },
-      { text: 'Forks', link: '/pt/forks/' },
+      { text: 'Alternatives', link: '/pt/others/' },
       { text: 'Contribuir', link: '/pt/docs/contribute' },
       {
           text: "Guias",
@@ -1387,7 +1387,7 @@ export const localesconfig = {
   sidebar: [
       { text: 'Baixar', link: '/pt-br/download/' },
       { text: 'Registro de alterações', link: '/pt-br/changelogs/' },
-      { text: 'Forks', link: '/pt-br/forks/' },
+      { text: 'Alternatives', link: '/pt-br/others/' },
       { text: 'Contribuir', link: '/pt-br/docs/contribute' },
       {
           text: "Guias",
@@ -1443,7 +1443,7 @@ export const localesconfig = {
   sidebar: [
       { text: 'Descărcare', link: '/ro/download/' },
       { text: 'Jurnale de modificări', link: '/ro/changelogs/' },
-      { text: 'Forks', link: '/ro/forks/' },
+      { text: 'Alternatives', link: '/ro/others/' },
       { text: 'Contribuiți', link: '/ro/docs/contribute' },
       {
           text: "Ghiduri",
@@ -1499,7 +1499,7 @@ export const localesconfig = {
   sidebar: [
       { text: 'Скачать', link: '/ru/download/' },
       { text: 'Журнал изменений', link: '/ru/changelogs/' },
-      { text: 'Форки', link: '/ru/forks/' },
+      { text: 'Форки', link: '/ru/others/' },
       { text: 'Содействие', link: '/ru/docs/contribute' },
       {
           text: "Руководства",
@@ -1555,7 +1555,7 @@ export const localesconfig = {
   sidebar: [
       { text: 'Преузимање', link: '/sr-cyr/download/' },
       { text: 'Дневници промена', link: '/sr-cyr/changelogs/' },
-      { text: 'Форкови', link: '/sr-cyr/forks/' },
+      { text: 'Форкови', link: '/sr-cyr/others/' },
       { text: 'Допринос', link: '/sr-cyr/docs/contribute' },
       {
           text: "Упутства",
@@ -1611,7 +1611,7 @@ export const localesconfig = {
   sidebar: [
       { text: 'Descargar', link: '/es/download/' },
       { text: 'Registro de cambios', link: '/es/changelogs/' },
-      { text: 'Bifurcaciones', link: '/es/forks/' },
+      { text: 'Bifurcaciones', link: '/es/others/' },
       { text: 'Contribuir', link: '/es/docs/contribute' },
       {
           text: "Guías",
@@ -1667,7 +1667,7 @@ export const localesconfig = {
   sidebar: [
       { text: 'Hämta', link: '/sv/download/' },
       { text: 'Ändringslogg', link: '/sv/changelogs/' },
-      { text: 'Forkar', link: '/sv/forks/' },
+      { text: 'Forkar', link: '/sv/others/' },
       { text: 'Bidra', link: '/sv/docs/contribute' },
       {
           text: "Guider",
@@ -1723,7 +1723,7 @@ export const localesconfig = {
   sidebar: [
       { text: 'İndir', link: '/tr/download/' },
       { text: 'Değişiklik Günlükleri', link: '/tr/changelogs/' },
-      { text: 'Forklar', link: '/tr/forks/' },
+      { text: 'Forklar', link: '/tr/others/' },
       { text: 'Katkı Sağlayın', link: '/tr/docs/contribute' },
       {
           text: "Kılavuzlar",
@@ -1779,7 +1779,7 @@ export const localesconfig = {
   sidebar: [
       { text: 'Завантажити', link: '/uk/download/' },
       { text: 'Зміни', link: '/uk/changelogs/' },
-      { text: 'Форки', link: '/uk/forks/' },
+      { text: 'Форки', link: '/uk/others/' },
       { text: 'Допомогти', link: '/uk/docs/contribute' },
       {
           text: "Посібники",
@@ -1835,7 +1835,7 @@ export const localesconfig = {
   sidebar: [
       { text: 'Tải về', link: '/vi/download/' },
       { text: 'Nhật ký thay đổi', link: '/vi/changelogs/' },
-      { text: 'Forks', link: '/vi/forks/' },
+      { text: 'Alternatives', link: '/vi/others/' },
       { text: 'Đóng góp', link: '/vi/docs/contribute' },
       {
           text: "Hướng dẫn",
