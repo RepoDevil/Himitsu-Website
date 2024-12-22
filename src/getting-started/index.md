@@ -94,3 +94,10 @@ Himitsu offers a special feature to help filter sources that offer a specific ti
 
 * `Settings => Common => Prioritize source list` will list sources with an item at the top
 * `Settings => Common => Source search timeout` will determine how long to search a source
+
+### Torrent support
+
+- Clicking a torrent will prompt to enable torrent access temporarily (preferred)
+- `Settings => Anime => Internal TorrServer` will enable persistent torrent access
+
+Once enabled, simply launch a torrent item to begin watching it
