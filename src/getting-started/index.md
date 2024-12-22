@@ -21,6 +21,7 @@ Essential information to help you get set up with Himitsu.
 1. Visit our [download](/download/) page to get the latest version of **Himitsu**.
 2. After the download is complete, open the `.apk` file.
 3. Proceed with the installation process.
+4. If prompted, complete or skip the `Play Protect` scan.
 
 ### Adding sources
 
@@ -30,7 +31,7 @@ Once **Himitsu** is installed on your device, you can bring your own content to 
 ::: tabs
 
 @tab External repositories
-External repositories add additional sources to **Himitsu**. You can add external repositories by clicking the icon in the top right and selecting ``Settings -> Extensions`` and tapping **Add [Type] Repo** for the repo type (Anime, Manga, or Novels).
+External repositories add additional sources to **Himitsu**. You can add external repositories by clicking the icon in the top right and selecting `Settings -> Extensions` and tapping **Add [Type] Repo** for the repo type (Anime, Manga, or Novels).
 
 Once there, you can add repositories by inputting the repository URLs ending with `index.min.json`.
 
@@ -73,3 +74,6 @@ If you encounter difficulties while searching for a specific series, consider th
 
   > Example: **3-gatsu no Lion** instead of **Sangatsu no Lion**.
 
+### Adding progress from other sources
+
+Long press the item cover image to open the list editor and add, modify, or delete progress
