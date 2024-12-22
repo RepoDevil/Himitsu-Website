@@ -43,7 +43,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'Download', link: '/download/' },
       { text: 'Changelogs', link: '/changelogs/' },
-      { text: 'Forks', link: '/forks/' },
+      { text: 'Alternatives', link: '/others/' },
       { text: 'Contribute', link: '/docs/contribute/' },
       {
         text: "Guides",
