@@ -54,13 +54,13 @@ Himitsu will not provide any support for unofficial extensions. Beware that any 
 
 ### Home UI navigation
 
-- In UI settings, there are options to enable / disable the AI recommendation (Sprout) and AniList Forum buttons
-- Long pressing the avatar on the home screen opens the notification page
-- Clicking the avatar on the home screen opens the dialog
-- Long pressing the user avatar in the dialog will display / hide incognito and client mode switches
-- Long pressing notifications in the dialog will open the activities page
-- Clicking notifications in the dialog will open the notification page
-- The inbox icon on the notification page will open the activities page
+- Open the quick settings dialog by clicking the top right icon on the home screen
+- Long pressing the top right icon on the home screen opens the notification page
+- Long pressing the avatar in the dialog will display / hide incognito and client mode
+- Long pressing the notification icon in the dialog will open the activities page
+- Clicking the notification icon in the dialog will open the notification page
+- The inbox icon on the notifications page will also open the activities page
+- AI recommendations (Sprout) and AniList Forums can be disabled in `UI Settings`
 
 ### Series search options
 
