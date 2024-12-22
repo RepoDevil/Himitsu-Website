@@ -66,7 +66,7 @@ Follow these steps:
 
 If you encounter difficulties while searching for a specific series, consider the following points:
 
-* Double-check your spelling and try again, as some sources might use **Japanese romanized** titles instead of **English** ones.
+* Double-check your spelling and try again, as some sources might use **Japanese Romanized** titles instead of **English** ones.
   > Example: **Boku no Hero Academia** instead of **My Hero Academia**.
 
 * Some sources may use different spellings or wordings for titles.
@@ -76,4 +76,11 @@ If you encounter difficulties while searching for a specific series, consider th
 
 ### Adding external progress
 
-Long press the item cover image to open the list editor and add, modify, or delete progress
+Long press the item cover image to open the list editor and add, modify, or delete progress.
+
+### Source prioritization
+
+Himitsu offers a special feature to help find sources that offer a specific title.
+
+* `Settings => Common => Prioritize source list` will list sources with an item at the top
+* `Settings => Common => Source search timeout` will determine how long to search a source
