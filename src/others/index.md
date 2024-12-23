@@ -8,10 +8,8 @@ prev: false
 next: false
 ---
 
-### Aniyomi
-https://aniyomi.org/
+### [Aniyomi](https://aniyomi.org/)
 The original Tachiyomi fork that added anime support alongside manga.
 
-### Animetail2
-https://github.com/Dark25/Animetail2
-Developed by Dark25, a talented contributor to aniyomi, kuukiyomi, and more.
+### [Animetail2](https://github.com/Dark25/Animetail2)
+Developed by Dark25, a talented contributor across all similar apps.
