@@ -8,8 +8,11 @@ prev: false
 next: false
 ---
 
+### [Mihon](https://mihon.app/)
+The latest iteration of the original Tachiyomi project.
+
 ### [Aniyomi](https://aniyomi.org/)
-The original Tachiyomi fork that added anime support alongside manga.
+The fork of Tachniyomi that added anime support alongside manga.
 
 ### [Animetail2](https://github.com/Dark25/Animetail2)
-Developed by Dark25, a talented contributor across all similar apps.
+A fork of Aniyomi by Dark25, a talented developer and contributor.
