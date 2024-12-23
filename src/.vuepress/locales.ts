@@ -39,6 +39,17 @@ export const localesconfig = {
           },
         ],
       },
+      {
+        text: "Others",
+        icon: "forks",
+        children: [
+          {
+            text: "Alternatives",
+            icon: "forks",
+            link: "/others/",
+          },
+        ],
+      },
     ],
     sidebar: [
       { text: 'Download', link: '/download/' },
