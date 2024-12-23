@@ -4,7 +4,6 @@ export const esSidebar = sidebar({
   "/ES/": [
     { text: 'Descargar', link: '/ES/Descargar/' },
     { text: 'Registro de cambios', link: '/ES/changelogs/' },
-    { text: 'Alternativas', link: '/ES/others/' },
     { text: 'Contribuir', link: '/ES/docs/contribute' },
 
     {
@@ -14,5 +13,6 @@ export const esSidebar = sidebar({
       children: "structure",
     },
     { text: 'Introduccion', link: '/ES/Empezando/' },
+    { text: 'Alternativas', link: '/ES/others/' },
   ],
 });
