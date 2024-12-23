@@ -43,14 +43,14 @@ export const localesconfig = {
     sidebar: [
       { text: 'Download', link: '/download/' },
       { text: 'Changelogs', link: '/changelogs/' },
-      { text: 'Alternatives', link: '/others/' },
       { text: 'Contribute', link: '/docs/contribute/' },
       {
         text: "Guides",
         icon: "book",
         prefix: "guide/",
         children: [
-          { text: 'Introduction', link: '/getting-started/' },// { text: 'Features', link: '/features'},
+          { text: 'Introduction', link: '/getting-started/' },
+          { text: 'Alternatives', link: '/others/' },
         ],
       },
     ],
@@ -104,7 +104,6 @@ export const localesconfig = {
     sidebar: [
       { text: 'Laai af', link: '/af/download/' },
       { text: 'Veranderlogs', link: '/af/changelogs/' },
-      { text: 'Vurke', link: '/af/others/' },
       { text: 'Bydra', link: '/af/docs/contribute' },
       {
         text: "Riglyne",
@@ -112,6 +111,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'Inleiding', link: '/af/getting-started/' },
+          { text: 'Vurke', link: '/af/others/' },
         ],
       },
     ],
@@ -165,7 +165,6 @@ export const localesconfig = {
     sidebar: [
       { text: 'تحميل', link: '/ar/download/' },
       { text: 'سجل التغييرات', link: '/ar/changelogs/' },
-      { text: 'فروكس', link: '/ar/others/' },
       { text: 'المساهمة', link: '/ar/docs/contribute' },
       {
         text: "الدلائل",
@@ -173,6 +172,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'مقدمة', link: '/ar/getting-started/' },
+          { text: 'فروكس', link: '/ar/others/' },
         ],
       },
     ],
@@ -226,7 +226,6 @@ export const localesconfig = {
     sidebar: [
       { text: 'ডাউনলোড', link: '/as/download/' },
       { text: 'পালনাতলিকা', link: '/as/changelogs/' },
-      { text: 'ফৰ্কসমূহ', link: '/as/others/' },
       { text: 'অবদান দিব', link: '/as/docs/contribute' },
       {
         text: "নিৰ্দেশিকা",
@@ -234,6 +233,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'পৰিচিতি', link: '/as/getting-started/' },
+          { text: 'ফৰ্কসমূহ', link: '/as/others/' },
         ],
       },
     ],
@@ -287,7 +287,6 @@ export const localesconfig = {
     sidebar: [
       { text: 'Baixa', link: '/ca/download/' },
       { text: 'Canvis', link: '/ca/changelogs/' },
-      { text: 'Alternatives', link: '/ca/others/' },
       { text: 'Contribueix', link: '/ca/docs/contribute' },
       {
         text: "Guies",
@@ -295,6 +294,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'Introducció', link: '/ca/getting-started/' },
+          { text: 'Alternatives', link: '/ca/others/' },
         ],
       },
     ],
@@ -348,7 +348,6 @@ export const localesconfig = {
     sidebar: [
       { text: '下载', link: '/zh/download/' },
       { text: '变更日志', link: '/zh/changelogs/' },
-      { text: '分支', link: '/zh/others/' },
       { text: '贡献', link: '/zh/docs/contribute' },
       {
         text: "指南",
@@ -356,6 +355,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: '介绍', link: '/zh/getting-started/' },
+          { text: '分支', link: '/zh/others/' },
         ],
       },
     ],
@@ -409,7 +409,6 @@ export const localesconfig = {
     sidebar: [
       { text: '下载', link: '/zh-Hans/download/' },
       { text: '变更日志', link: '/zh-Hans/changelogs/' },
-      { text: '分支', link: '/zh-Hans/others/' },
       { text: '贡献', link: '/zh-Hans/docs/contribute' },
       {
         text: "指南",
@@ -417,6 +416,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: '介绍', link: '/zh-Hans/getting-started/' },
+          { text: '分支', link: '/zh-Hans/others/' },
         ],
       },
     ],
@@ -470,7 +470,6 @@ export const localesconfig = {
     sidebar: [
       { text: '下載', link: '/zh-Hant/download/' },
       { text: '變更日誌', link: '/zh-Hant/changelogs/' },
-      { text: '分叉', link: '/zh-Hant/others/' },
       { text: '貢獻', link: '/zh-Hant/docs/contribute' },
       {
         text: "指南",
@@ -478,6 +477,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: '介紹', link: '/zh-Hant/getting-started/' },
+          { text: '分叉', link: '/zh-Hant/others/' },
         ],
       },
     ],
@@ -531,7 +531,6 @@ export const localesconfig = {
     sidebar: [
       { text: 'Stáhnout', link: '/cs/download/' },
       { text: 'Změny', link: '/cs/changelogs/' },
-      { text: 'Forky', link: '/cs/others/' },
       { text: 'Přispět', link: '/cs/docs/contribute' },
       {
         text: "Průvodci",
@@ -539,6 +538,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'Úvod', link: '/cs/getting-started/' },
+          { text: 'Forky', link: '/cs/others/' },
         ],
       },
     ],
@@ -592,7 +592,6 @@ export const localesconfig = {
     sidebar: [
       { text: 'Download', link: '/da/download/' },
       { text: 'Ændringslog', link: '/da/changelogs/' },
-      { text: 'Forgreninger', link: '/da/others/' },
       { text: 'Bidrag', link: '/da/docs/contribute' },
       {
         text: "Guides",
@@ -600,6 +599,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'Introduktion', link: '/da/getting-started/' },
+          { text: 'Forgreninger', link: '/da/others/' },
         ],
       },
     ],
@@ -653,7 +653,6 @@ export const localesconfig = {
     sidebar: [
       { text: 'Downloaden', link: '/nl/download/' },
       { text: 'Wijzigingen', link: '/nl/changelogs/' },
-      { text: 'Alternatives', link: '/nl/others/' },
       { text: 'Bijdragen', link: '/nl/docs/contribute' },
       {
         text: "Handleidingen",
@@ -661,6 +660,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'Introductie', link: '/nl/getting-started/' },
+          { text: 'Alternatives', link: '/nl/others/' },
         ],
       },
     ],
@@ -714,7 +714,6 @@ export const localesconfig = {
     sidebar: [
       { text: 'Lataa', link: '/fi/download/' },
       { text: 'Muutosloki', link: '/fi/changelogs/' },
-      { text: 'Haarat', link: '/fi/others/' },
       { text: 'Osallistu', link: '/fi/docs/contribute' },
       {
         text: "Oppaat",
@@ -722,6 +721,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'Johdanto', link: '/fi/getting-started/' },
+          { text: 'Haarat', link: '/fi/others/' },
         ],
       },
     ],
@@ -775,7 +775,6 @@ export const localesconfig = {
     sidebar: [
       { text: 'Télécharger', link: '/fr/download/' },
       { text: 'Changements', link: '/fr/changelogs/' },
-      { text: 'Alternatives', link: '/fr/others/' },
       { text: 'Contribuer', link: '/fr/docs/contribute' },
       {
         text: "Guides",
@@ -783,6 +782,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'Introduction', link: '/fr/getting-started/' },
+          { text: 'Alternatives', link: '/fr/others/' },
         ],
       },
     ],
@@ -836,7 +836,6 @@ export const localesconfig = {
     sidebar: [
       { text: 'Herunterladen', link: '/de/download/' },
       { text: 'Änderungsprotokoll', link: '/de/changelogs/' },
-      { text: 'Alternatives', link: '/de/others/' },
       { text: 'Beitragen', link: '/de/docs/contribute' },
       {
         text: "Anleitungen",
@@ -844,6 +843,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'Einführung', link: '/de/getting-started/' },
+          { text: 'Alternatives', link: '/de/others/' },
         ],
       },
     ],
@@ -897,7 +897,6 @@ export const localesconfig = {
     sidebar: [
       { text: 'Λήψη', link: '/el/download/' },
       { text: 'Αλλαγές', link: '/el/changelogs/' },
-      { text: 'Παρακλάδια', link: '/el/others/' },
       { text: 'Συνεισφέρετε', link: '/el/docs/contribute' },
       {
         text: "Οδηγοί",
@@ -905,6 +904,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'Εισαγωγή', link: '/el/getting-started/' },
+          { text: 'Παρακλάδια', link: '/el/others/' },
         ],
       },
     ],
@@ -958,7 +958,6 @@ export const localesconfig = {
     sidebar: [
       { text: 'הורדה', link: '/he/download/' },
       { text: 'שינויים', link: '/he/changelogs/' },
-      { text: 'התנפצויות', link: '/he/others/' },
       { text: 'תרמו', link: '/he/docs/contribute' },
       {
         text: "מדריכים",
@@ -966,6 +965,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'מבוא', link: '/he/getting-started/' },
+          { text: 'התנפצויות', link: '/he/others/' },
         ],
       },
     ],
@@ -1019,7 +1019,6 @@ export const localesconfig = {
     sidebar: [
       { text: 'डाउनलोड', link: '/hi/download/' },
       { text: 'परिवर्तन विवरण', link: '/hi/changelogs/' },
-      { text: 'फोर्क्स', link: '/hi/others/' },
       { text: 'योगदान', link: '/hi/docs/contribute' },
       {
         text: "मार्गदर्शिकाएँ",
@@ -1027,6 +1026,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'परिचय', link: '/hi/getting-started/' },
+          { text: 'फोर्क्स', link: '/hi/others/' },
         ],
       },
     ],
@@ -1080,7 +1080,6 @@ export const localesconfig = {
     sidebar: [
       { text: 'Letöltés', link: '/hu/download/' },
       { text: 'Változások', link: '/hu/changelogs/' },
-      { text: 'Forkok', link: '/hu/others/' },
       { text: 'Hozzájárulás', link: '/hu/docs/contribute' },
       {
         text: "Útmutatók",
@@ -1088,6 +1087,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'Bevezetés', link: '/hu/getting-started/' },
+          { text: 'Forkok', link: '/hu/others/' },
         ],
       },
     ],
@@ -1141,7 +1141,6 @@ export const localesconfig = {
     sidebar: [
       { text: 'Scarica', link: '/it/download/' },
       { text: 'Cronologia delle modifiche', link: '/it/changelogs/' },
-      { text: 'Fork', link: '/it/others/' },
       { text: 'Contribuisci', link: '/it/docs/contribute' },
       {
         text: "Guide",
@@ -1149,6 +1148,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'Introduzione', link: '/it/getting-started/' },
+          { text: 'Fork', link: '/it/others/' },
         ],
       },
     ],
@@ -1202,7 +1202,6 @@ export const localesconfig = {
     sidebar: [
       { text: 'ダウンロード', link: '/ja/download/' },
       { text: '変更履歴', link: '/ja/changelogs/' },
-      { text: 'フォーク', link: '/ja/others/' },
       { text: '貢献する', link: '/ja/docs/contribute' },
       {
         text: "ガイド",
@@ -1210,6 +1209,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'はじめに', link: '/ja/getting-started/' },
+          { text: 'フォーク', link: '/ja/others/' },
         ],
       },
     ],
@@ -1263,7 +1263,6 @@ export const localesconfig = {
     sidebar: [
       { text: '다운로드', link: '/ko/download/' },
       { text: '변경 내역', link: '/ko/changelogs/' },
-      { text: '포크', link: '/ko/others/' },
       { text: '기여하기', link: '/ko/docs/contribute' },
       {
         text: "가이드",
@@ -1271,6 +1270,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: '소개', link: '/ko/getting-started/' },
+          { text: '포크', link: '/ko/others/' },
         ],
       },
     ],
@@ -1324,7 +1324,6 @@ export const localesconfig = {
     sidebar: [
       { text: 'Nedlasting', link: '/nb/download/' },
       { text: 'Endringslogger', link: '/nb/changelogs/' },
-      { text: 'Forgreninger', link: '/nb/others/' },
       { text: 'Bidra', link: '/nb/docs/contribute' },
       {
         text: "Guider",
@@ -1332,6 +1331,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'Introduksjon', link: '/nb/getting-started/' },
+          { text: 'Forgreninger', link: '/nb/others/' },
         ],
       },
     ],
@@ -1385,7 +1385,6 @@ export const localesconfig = {
     sidebar: [
       { text: 'Pobierz', link: '/pl/download/' },
       { text: 'Dziennik zmian', link: '/pl/changelogs/' },
-      { text: 'Rozgałęzienia', link: '/pl/others/' },
       { text: 'Współtwórz', link: '/pl/docs/contribute' },
       {
         text: "Przewodniki",
@@ -1393,6 +1392,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'Wprowadzenie', link: '/pl/getting-started/' },
+          { text: 'Rozgałęzienia', link: '/pl/others/' },
         ],
       },
     ],
@@ -1446,7 +1446,6 @@ export const localesconfig = {
     sidebar: [
       { text: 'Baixar', link: '/pt/download/' },
       { text: 'Registro de alterações', link: '/pt/changelogs/' },
-      { text: 'Alternatives', link: '/pt/others/' },
       { text: 'Contribuir', link: '/pt/docs/contribute' },
       {
         text: "Guias",
@@ -1454,6 +1453,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'Introdução', link: '/pt/getting-started/' },
+          { text: 'Alternatives', link: '/pt/others/' },
         ],
       },
     ],
@@ -1507,7 +1507,6 @@ export const localesconfig = {
     sidebar: [
       { text: 'Baixar', link: '/pt-br/download/' },
       { text: 'Registro de alterações', link: '/pt-br/changelogs/' },
-      { text: 'Alternatives', link: '/pt-br/others/' },
       { text: 'Contribuir', link: '/pt-br/docs/contribute' },
       {
         text: "Guias",
@@ -1515,6 +1514,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'Introdução', link: '/pt-br/getting-started/' },
+          { text: 'Alternatives', link: '/pt-br/others/' },
         ],
       },
     ],
@@ -1568,7 +1568,6 @@ export const localesconfig = {
     sidebar: [
       { text: 'Descărcare', link: '/ro/download/' },
       { text: 'Jurnale de modificări', link: '/ro/changelogs/' },
-      { text: 'Alternatives', link: '/ro/others/' },
       { text: 'Contribuiți', link: '/ro/docs/contribute' },
       {
         text: "Ghiduri",
@@ -1576,6 +1575,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'Introducere', link: '/ro/getting-started/' },
+          { text: 'Alternatives', link: '/ro/others/' },
         ],
       },
     ],
@@ -1629,7 +1629,6 @@ export const localesconfig = {
     sidebar: [
       { text: 'Скачать', link: '/ru/download/' },
       { text: 'Журнал изменений', link: '/ru/changelogs/' },
-      { text: 'Форки', link: '/ru/others/' },
       { text: 'Содействие', link: '/ru/docs/contribute' },
       {
         text: "Руководства",
@@ -1637,6 +1636,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'Введение', link: '/ru/getting-started/' },
+          { text: 'Форки', link: '/ru/others/' },
         ],
       },
     ],
@@ -1690,7 +1690,6 @@ export const localesconfig = {
     sidebar: [
       { text: 'Преузимање', link: '/sr-cyr/download/' },
       { text: 'Дневници промена', link: '/sr-cyr/changelogs/' },
-      { text: 'Форкови', link: '/sr-cyr/others/' },
       { text: 'Допринос', link: '/sr-cyr/docs/contribute' },
       {
         text: "Упутства",
@@ -1698,6 +1697,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'Увод', link: '/sr-cyr/getting-started/' },
+          { text: 'Форкови', link: '/sr-cyr/others/' },
         ],
       },
     ],
@@ -1751,7 +1751,6 @@ export const localesconfig = {
     sidebar: [
       { text: 'Descargar', link: '/es/download/' },
       { text: 'Registro de cambios', link: '/es/changelogs/' },
-      { text: 'Bifurcaciones', link: '/es/others/' },
       { text: 'Contribuir', link: '/es/docs/contribute' },
       {
         text: "Guías",
@@ -1759,6 +1758,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'Introducción', link: '/es/getting-started/' },
+          { text: 'Bifurcaciones', link: '/es/others/' },
         ],
       },
     ],
@@ -1812,7 +1812,6 @@ export const localesconfig = {
     sidebar: [
       { text: 'Hämta', link: '/sv/download/' },
       { text: 'Ändringslogg', link: '/sv/changelogs/' },
-      { text: 'Forkar', link: '/sv/others/' },
       { text: 'Bidra', link: '/sv/docs/contribute' },
       {
         text: "Guider",
@@ -1820,6 +1819,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'Introduktion', link: '/sv/getting-started/' },
+          { text: 'Forkar', link: '/sv/others/' },
         ],
       },
     ],
@@ -1873,7 +1873,6 @@ export const localesconfig = {
     sidebar: [
       { text: 'İndir', link: '/tr/download/' },
       { text: 'Değişiklik Günlükleri', link: '/tr/changelogs/' },
-      { text: 'Forklar', link: '/tr/others/' },
       { text: 'Katkı Sağlayın', link: '/tr/docs/contribute' },
       {
         text: "Kılavuzlar",
@@ -1881,6 +1880,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'Giriş', link: '/tr/getting-started/' },
+          { text: 'Forklar', link: '/tr/others/' },
         ],
       },
     ],
@@ -1934,7 +1934,6 @@ export const localesconfig = {
     sidebar: [
       { text: 'Завантажити', link: '/uk/download/' },
       { text: 'Зміни', link: '/uk/changelogs/' },
-      { text: 'Форки', link: '/uk/others/' },
       { text: 'Допомогти', link: '/uk/docs/contribute' },
       {
         text: "Посібники",
@@ -1942,6 +1941,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'Вступ', link: '/uk/getting-started/' },
+          { text: 'Форки', link: '/uk/others/' },
         ],
       },
     ],
@@ -1995,7 +1995,6 @@ export const localesconfig = {
     sidebar: [
       { text: 'Tải về', link: '/vi/download/' },
       { text: 'Nhật ký thay đổi', link: '/vi/changelogs/' },
-      { text: 'Alternatives', link: '/vi/others/' },
       { text: 'Đóng góp', link: '/vi/docs/contribute' },
       {
         text: "Hướng dẫn",
@@ -2003,6 +2002,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'Giới thiệu', link: '/vi/getting-started/' },
+          { text: 'Alternatives', link: '/vi/others/' },
         ],
       },
     ],
