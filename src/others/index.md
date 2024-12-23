@@ -18,4 +18,4 @@ The fork of Aniyomi that added torrent support by Diegopyl1209.
 The fork of Tachiyomi that added anime support alongside manga.
 
 ### [Mihon](https://mihon.app/)
-The latest iteration of the original Tachiyomi project.
+The latest iteration of the original Tachiyomi project for manga.
