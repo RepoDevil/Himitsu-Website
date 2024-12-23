@@ -11,7 +11,7 @@ next: false
 ### [Animetail2](https://github.com/Dark25/Animetail2)
 A fork of Aniyomi by Dark25, a talented developer and contributor.
 
-### [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi)
+### [Kuukiyomi](https://aniyomi.org/forks/Kuukiyomi/)
 The fork of Aniyomi that added torrent support by Diegopyl1209.
 
 ### [Aniyomi](https://aniyomi.org/)
