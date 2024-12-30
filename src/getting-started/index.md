@@ -90,9 +90,9 @@ Long press the item cover image to open the list editor and add, modify, or dele
 
 ### Source prioritization
 
-Himitsu offers a special feature to help filter sources that offer a specific title.
-
 _Warning: Enabling with slow sources or internet may cause delayed loading of media pages_
+
+Himitsu offers a special feature to help filter sources that offer a specific title.
 
 * `Settings => Common => Prioritize source list` will list sources with an item at the top
 * `Settings => Common => Source search timeout` will determine how long to search a source
