@@ -18,7 +18,7 @@ export const localesconfig = {
         ],
       },
       {
-        text: "Docs",
+        text: "Help",
         icon: "folder",
         children: [
           {
@@ -243,7 +243,7 @@ export const localesconfig = {
         ],
       },
       {
-        text: "Docs",
+        text: "Help",
         icon: "folder",
         children: [
           {
@@ -691,7 +691,7 @@ export const localesconfig = {
         ],
       },
       {
-        text: "Docs",
+        text: "Help",
         icon: "folder",
         children: [
           {
