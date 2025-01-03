@@ -45,6 +45,7 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'Introduction', link: '/getting-started/' },
+          { text: 'Navigation', link: '/features/' },
           { text: 'Policies', link: '/privacy/' },
           { text: 'Alternatives', link: '/others/' },
         ],
