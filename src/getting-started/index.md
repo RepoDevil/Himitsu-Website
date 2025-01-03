@@ -88,6 +88,10 @@ If you encounter difficulties while searching for a specific series, consider th
 
 Long press the item cover image to open the list editor and add, modify, or delete progress.
 
+### Syncing progress between devices
+
+* Log in to AniList and enable `Settings => Common => Sync episode / chapter progress`
+
 ### Source prioritization
 
 _Warning: Enabling with slow sources or internet may cause delayed loading of media pages_
