@@ -33,7 +33,6 @@ External repositories add additional sources to **Himitsu**. You can add externa
 Once there, you can add repositories by inputting the repository URLs ending with `index.min.json`.
 
 
-
 ::: caution
 Himitsu will not provide any support for unofficial repositories. Beware that any third-party repositories or extensions will have full access to the app and may contain malware.
 ::: note
