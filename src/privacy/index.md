@@ -14,6 +14,8 @@ Himitsu provides the ability to log in to AniList, MyAnimeList, Discord, and var
 
 Himitsu, itself, does not store or share any information beyond simple identification without express consent from the user. This includes, but is not limited to, device characteristics and crash data.
 
+Please note: The Dantotsu comments API is disabled by default, but enabling this option implies acceptance of the Dantotsu privacy policies and terms. We are not affiliated with, nor do we monitor, the quality and safety of this functionality. Use it at your own risk. 
+
 [AniList Privacy Policy](https://anilist.co/terms)
 [MyAnimeList Privacy Policy](https://myanimelist.net/about/privacy_policy)
 Discord [TOS](https://discord.com/terms) and [Privacy Policy](https://discord.com/privacy)
