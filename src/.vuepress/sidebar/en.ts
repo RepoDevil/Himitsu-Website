@@ -4,7 +4,7 @@ export const enSidebar = sidebar({
   "/": [
     { text: 'Download', link: '/download/' },
     { text: 'Changelogs', link: '/changelogs/' },
-    { text: 'Contribute', link: '/docs/contribute' },
+    { text: 'Contribute', link: '/contribute' },
 
     {
       text: "Guides",
@@ -12,6 +12,6 @@ export const enSidebar = sidebar({
       prefix: "guide/",
       children: "structure",
     },
-    { text: 'Introduction', link: '/getting-started/' },
+    { text: 'Introduction', link: '/docs/getting-started/' },
   ],
 });

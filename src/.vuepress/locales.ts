@@ -52,7 +52,7 @@ export const localesconfig = {
         icon: "book",
         prefix: "guide/",
         children: [
-          { text: 'Introduction', link: '/getting-started/' },
+          { text: 'Introduction', link: '/docs/getting-started/' },
           { text: 'Features', link: '/docs/features/' },
           { text: 'Policies', link: '/docs/privacy/' },
           { text: 'Alternatives', link: '/docs/others/' },
