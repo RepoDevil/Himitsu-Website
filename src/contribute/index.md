@@ -18,7 +18,7 @@ next: false
   <p class="wishlist" align="center">
     <a href="https://www.amazon.com/hz/wishlist/ls/2ISJTKHPE1RJ"><img src='https://educatesimplify.com/wp-content/uploads/2022/01/buy-on-amazon-button-png-3.png'/></a>
   </p>
-  <p class="sponsor" align="center" style="min-width: 40%;"">
+  <p class="sponsor" align="center" style="min-width: 40%;">
     <iframe src="https://github.com/sponsors/AbandonedCart/card" title="Sponsor AbandonedCart" width="50%" style="margin-bottom: 1em;"></iframe>
   </p>
   <p><h4><i>
