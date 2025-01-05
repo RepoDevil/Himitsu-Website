@@ -1,11 +1,56 @@
 import { hopeTheme } from "vuepress-theme-hope";
 import { localesconfig, locales2 } from "./locales.js";
 
+import path from "path";
+import fs from "fs";
+
+const docsDir = path.resolve(__dirname, "../");
+
+const getSidebarItems = (dir) => {
+    const items = [];
+    const files = fs.readdirSync(dir, { withFileTypes: true });
+
+    files.forEach((file) => {
+        if (file.isDirectory() && file.name !== ".vuepress") {
+            const folderName = file.name;
+            const folderPath = path.join(dir, folderName);
+            const children = fs
+                .readdirSync(folderPath, { withFileTypes: true })
+                .filter((child) => child.isFile() && child.name.endsWith(".md"))
+                .map((child) => child.name.replace(".md", ""));
+
+            if (children.length === 1 && children[0] === "README") {
+                // Folder with just README.md
+                items.push({
+                    text: folderName.replace(/-/g, " ").toUpperCase(),
+                    link: `/${folderName}/`,
+                });
+            } else {
+                // Folder with other markdown files
+                items.push({
+                    text: folderName.replace(/-/g, " ").toUpperCase(),
+                    link: `/${folderName}/`,
+                    prefix: `/${folderName}`,
+                    children: children.filter((child) => child !== "README"),
+                });
+            }
+        }
+    });
+
+    return items;
+};
+
+const generateSidebar = () => {
+    return getSidebarItems(docsDir);
+};
+
 export default hopeTheme({
   navbarLayout: {
     start: ["Search"],
     end: ["Links", "Language", "Outlook", "Repo"],
   },
+
+  sidebar: generateSidebar(),
 
   hostname: "https://repodevil.netlify.app",
 

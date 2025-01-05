@@ -30,6 +30,14 @@ export const localesconfig = {
                 icon: "ellipsis",
                 link: "/getting-started/",
               },
+              {
+                text: 'Features',
+                link: '/docs/features/'
+              },
+              {
+                text: 'Policies',
+                link: '/docs/privacy/'
+              },
             ],
           },
         ],
@@ -45,9 +53,9 @@ export const localesconfig = {
         prefix: "guide/",
         children: [
           { text: 'Introduction', link: '/getting-started/' },
-          { text: 'Features', link: '/features/' },
-          { text: 'Policies', link: '/privacy/' },
-          { text: 'Alternatives', link: '/others/' },
+          { text: 'Features', link: '/docs/features/' },
+          { text: 'Policies', link: '/docs/privacy/' },
+          { text: 'Alternatives', link: '/docs/others/' },
         ],
       },
     ],
@@ -96,7 +104,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'Laai af', link: '/af/download/' },
       { text: 'Veranderlogs', link: '/af/changelogs/' },
-      { text: 'Bydra', link: '/af/docs/contribute' },
+      { text: 'Bydra', link: '/docs/contribute' },
       {
         text: "Riglyne",
         icon: "book",
@@ -152,7 +160,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'تحميل', link: '/ar/download/' },
       { text: 'سجل التغييرات', link: '/ar/changelogs/' },
-      { text: 'المساهمة', link: '/ar/docs/contribute' },
+      { text: 'المساهمة', link: '/docs/contribute' },
       {
         text: "الدلائل",
         icon: "book",
@@ -208,7 +216,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'ডাউনলোড', link: '/as/download/' },
       { text: 'পালনাতলিকা', link: '/as/changelogs/' },
-      { text: 'অবদান দিব', link: '/as/docs/contribute' },
+      { text: 'অবদান দিব', link: '/docs/contribute' },
       {
         text: "নিৰ্দেশিকা",
         icon: "book",
@@ -264,7 +272,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'Baixa', link: '/ca/download/' },
       { text: 'Canvis', link: '/ca/changelogs/' },
-      { text: 'Contribueix', link: '/ca/docs/contribute' },
+      { text: 'Contribueix', link: '/docs/contribute' },
       {
         text: "Guies",
         icon: "book",
@@ -320,7 +328,7 @@ export const localesconfig = {
     sidebar: [
       { text: '下载', link: '/zh/download/' },
       { text: '变更日志', link: '/zh/changelogs/' },
-      { text: '贡献', link: '/zh/docs/contribute' },
+      { text: '贡献', link: '/docs/contribute' },
       {
         text: "指南",
         icon: "book",
@@ -376,7 +384,7 @@ export const localesconfig = {
     sidebar: [
       { text: '下载', link: '/zh-Hans/download/' },
       { text: '变更日志', link: '/zh-Hans/changelogs/' },
-      { text: '贡献', link: '/zh-Hans/docs/contribute' },
+      { text: '贡献', link: '/docs/contribute' },
       {
         text: "指南",
         icon: "book",
@@ -432,7 +440,7 @@ export const localesconfig = {
     sidebar: [
       { text: '下載', link: '/zh-Hant/download/' },
       { text: '變更日誌', link: '/zh-Hant/changelogs/' },
-      { text: '貢獻', link: '/zh-Hant/docs/contribute' },
+      { text: '貢獻', link: '/docs/contribute' },
       {
         text: "指南",
         icon: "book",
@@ -488,7 +496,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'Stáhnout', link: '/cs/download/' },
       { text: 'Změny', link: '/cs/changelogs/' },
-      { text: 'Přispět', link: '/cs/docs/contribute' },
+      { text: 'Přispět', link: '/docs/contribute' },
       {
         text: "Průvodci",
         icon: "book",
@@ -544,7 +552,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'Download', link: '/da/download/' },
       { text: 'Ændringslog', link: '/da/changelogs/' },
-      { text: 'Bidrag', link: '/da/docs/contribute' },
+      { text: 'Bidrag', link: '/docs/contribute' },
       {
         text: "Guides",
         icon: "book",
@@ -600,7 +608,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'Downloaden', link: '/nl/download/' },
       { text: 'Wijzigingen', link: '/nl/changelogs/' },
-      { text: 'Bijdragen', link: '/nl/docs/contribute' },
+      { text: 'Bijdragen', link: '/docs/contribute' },
       {
         text: "Handleidingen",
         icon: "book",
@@ -656,7 +664,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'Lataa', link: '/fi/download/' },
       { text: 'Muutosloki', link: '/fi/changelogs/' },
-      { text: 'Osallistu', link: '/fi/docs/contribute' },
+      { text: 'Osallistu', link: '/docs/contribute' },
       {
         text: "Oppaat",
         icon: "book",
@@ -712,7 +720,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'Télécharger', link: '/fr/download/' },
       { text: 'Changements', link: '/fr/changelogs/' },
-      { text: 'Contribuer', link: '/fr/docs/contribute' },
+      { text: 'Contribuer', link: '/docs/contribute' },
       {
         text: "Guides",
         icon: "book",
@@ -768,7 +776,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'Herunterladen', link: '/de/download/' },
       { text: 'Änderungsprotokoll', link: '/de/changelogs/' },
-      { text: 'Beitragen', link: '/de/docs/contribute' },
+      { text: 'Beitragen', link: '/docs/contribute' },
       {
         text: "Anleitungen",
         icon: "book",
@@ -824,7 +832,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'Λήψη', link: '/el/download/' },
       { text: 'Αλλαγές', link: '/el/changelogs/' },
-      { text: 'Συνεισφέρετε', link: '/el/docs/contribute' },
+      { text: 'Συνεισφέρετε', link: '/docs/contribute' },
       {
         text: "Οδηγοί",
         icon: "book",
@@ -880,7 +888,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'הורדה', link: '/he/download/' },
       { text: 'שינויים', link: '/he/changelogs/' },
-      { text: 'תרמו', link: '/he/docs/contribute' },
+      { text: 'תרמו', link: '/docs/contribute' },
       {
         text: "מדריכים",
         icon: "book",
@@ -936,7 +944,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'डाउनलोड', link: '/hi/download/' },
       { text: 'परिवर्तन विवरण', link: '/hi/changelogs/' },
-      { text: 'योगदान', link: '/hi/docs/contribute' },
+      { text: 'योगदान', link: '/docs/contribute' },
       {
         text: "मार्गदर्शिकाएँ",
         icon: "book",
@@ -992,7 +1000,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'Letöltés', link: '/hu/download/' },
       { text: 'Változások', link: '/hu/changelogs/' },
-      { text: 'Hozzájárulás', link: '/hu/docs/contribute' },
+      { text: 'Hozzájárulás', link: '/docs/contribute' },
       {
         text: "Útmutatók",
         icon: "book",
@@ -1048,7 +1056,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'Scarica', link: '/it/download/' },
       { text: 'Cronologia delle modifiche', link: '/it/changelogs/' },
-      { text: 'Contribuisci', link: '/it/docs/contribute' },
+      { text: 'Contribuisci', link: '/docs/contribute' },
       {
         text: "Guide",
         icon: "book",
@@ -1104,7 +1112,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'ダウンロード', link: '/ja/download/' },
       { text: '変更履歴', link: '/ja/changelogs/' },
-      { text: '貢献する', link: '/ja/docs/contribute' },
+      { text: '貢献する', link: '/docs/contribute' },
       {
         text: "ガイド",
         icon: "book",
@@ -1160,7 +1168,7 @@ export const localesconfig = {
     sidebar: [
       { text: '다운로드', link: '/ko/download/' },
       { text: '변경 내역', link: '/ko/changelogs/' },
-      { text: '기여하기', link: '/ko/docs/contribute' },
+      { text: '기여하기', link: '/docs/contribute' },
       {
         text: "가이드",
         icon: "book",
@@ -1216,7 +1224,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'Nedlasting', link: '/nb/download/' },
       { text: 'Endringslogger', link: '/nb/changelogs/' },
-      { text: 'Bidra', link: '/nb/docs/contribute' },
+      { text: 'Bidra', link: '/docs/contribute' },
       {
         text: "Guider",
         icon: "book",
@@ -1272,7 +1280,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'Pobierz', link: '/pl/download/' },
       { text: 'Dziennik zmian', link: '/pl/changelogs/' },
-      { text: 'Współtwórz', link: '/pl/docs/contribute' },
+      { text: 'Współtwórz', link: '/docs/contribute' },
       {
         text: "Przewodniki",
         icon: "book",
@@ -1328,7 +1336,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'Baixar', link: '/pt/download/' },
       { text: 'Registro de alterações', link: '/pt/changelogs/' },
-      { text: 'Contribuir', link: '/pt/docs/contribute' },
+      { text: 'Contribuir', link: '/docs/contribute' },
       {
         text: "Guias",
         icon: "book",
@@ -1384,7 +1392,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'Baixar', link: '/pt-br/download/' },
       { text: 'Registro de alterações', link: '/pt-br/changelogs/' },
-      { text: 'Contribuir', link: '/pt-br/docs/contribute' },
+      { text: 'Contribuir', link: '/docs/contribute' },
       {
         text: "Guias",
         icon: "book",
@@ -1440,7 +1448,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'Descărcare', link: '/ro/download/' },
       { text: 'Jurnale de modificări', link: '/ro/changelogs/' },
-      { text: 'Contribuiți', link: '/ro/docs/contribute' },
+      { text: 'Contribuiți', link: '/docs/contribute' },
       {
         text: "Ghiduri",
         icon: "book",
@@ -1496,7 +1504,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'Скачать', link: '/ru/download/' },
       { text: 'Журнал изменений', link: '/ru/changelogs/' },
-      { text: 'Содействие', link: '/ru/docs/contribute' },
+      { text: 'Содействие', link: '/docs/contribute' },
       {
         text: "Руководства",
         icon: "book",
@@ -1552,7 +1560,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'Преузимање', link: '/sr-cyr/download/' },
       { text: 'Дневници промена', link: '/sr-cyr/changelogs/' },
-      { text: 'Допринос', link: '/sr-cyr/docs/contribute' },
+      { text: 'Допринос', link: '/docs/contribute' },
       {
         text: "Упутства",
         icon: "book",
@@ -1608,7 +1616,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'Descargar', link: '/es/download/' },
       { text: 'Registro de cambios', link: '/es/changelogs/' },
-      { text: 'Contribuir', link: '/es/docs/contribute' },
+      { text: 'Contribuir', link: '/docs/contribute' },
       {
         text: "Guías",
         icon: "book",
@@ -1664,7 +1672,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'Hämta', link: '/sv/download/' },
       { text: 'Ändringslogg', link: '/sv/changelogs/' },
-      { text: 'Bidra', link: '/sv/docs/contribute' },
+      { text: 'Bidra', link: '/docs/contribute' },
       {
         text: "Guider",
         icon: "book",
@@ -1720,7 +1728,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'İndir', link: '/tr/download/' },
       { text: 'Değişiklik Günlükleri', link: '/tr/changelogs/' },
-      { text: 'Katkı Sağlayın', link: '/tr/docs/contribute' },
+      { text: 'Katkı Sağlayın', link: '/docs/contribute' },
       {
         text: "Kılavuzlar",
         icon: "book",
@@ -1776,7 +1784,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'Завантажити', link: '/uk/download/' },
       { text: 'Зміни', link: '/uk/changelogs/' },
-      { text: 'Допомогти', link: '/uk/docs/contribute' },
+      { text: 'Допомогти', link: '/docs/contribute' },
       {
         text: "Посібники",
         icon: "book",
@@ -1832,7 +1840,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'Tải về', link: '/vi/download/' },
       { text: 'Nhật ký thay đổi', link: '/vi/changelogs/' },
-      { text: 'Đóng góp', link: '/vi/docs/contribute' },
+      { text: 'Đóng góp', link: '/docs/contribute' },
       {
         text: "Hướng dẫn",
         icon: "book",

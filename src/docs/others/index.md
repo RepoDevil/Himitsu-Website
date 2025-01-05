@@ -3,7 +3,7 @@ title: Alternatives
 description: Apps we recommend if not using Himitsu.
 lastUpdated: false
 editLink: false
-download: true
+download: false
 prev: false
 next: false
 ---

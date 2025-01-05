@@ -1,5 +1,5 @@
 ---
-title: Getting started
+title: Getting Started
 description: Essential information to help you get set up with Himitsu.
 lastUpdated: false
 editLink: false
@@ -11,7 +11,7 @@ next: false
 ## What is Himitsu?
 Himitsu is the Japanese word for secret, so what’s ours? Give it a try and find out.
 
-## Installation guide
+## Installation Guide
 
 ### Downloading Himitsu
 
@@ -20,7 +20,7 @@ Himitsu is the Japanese word for secret, so what’s ours? Give it a try and fin
 3. Proceed with the installation process.
 4. If prompted, complete or skip the `Play Protect` scan.
 
-### Adding sources
+### Adding Sources
 
 Once **Himitsu** is installed on your device, you can bring your own content to watch from various sources:
 

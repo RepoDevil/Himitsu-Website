@@ -13,8 +13,5 @@ export const enSidebar = sidebar({
       children: "structure",
     },
     { text: 'Introduction', link: '/getting-started/' },
-    { text: 'Features', link: '/features/' },
-    { text: 'Policies', link: '/privacy/' },
-    { text: 'Alternatives', link: '/others/' },
   ],
 });

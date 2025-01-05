@@ -13,6 +13,5 @@ export const esSidebar = sidebar({
       children: "structure",
     },
     { text: 'Introduccion', link: '/ES/Empezando/' },
-    { text: 'Alternativas', link: '/ES/others/' },
   ],
 });
