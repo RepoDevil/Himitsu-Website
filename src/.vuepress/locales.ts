@@ -46,7 +46,7 @@ export const localesconfig = {
     sidebar: [
       { text: 'Download', link: '/download/' },
       { text: 'Changelogs', link: '/changelogs/' },
-      { text: 'Contribute', link: '/docs/contribute/' },
+      { text: 'Contribute', link: '/contribute/' },
       {
         text: "Guides",
         icon: "book",
