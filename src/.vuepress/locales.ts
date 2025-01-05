@@ -1586,7 +1586,7 @@ export const localesconfig = {
           {
             text: "Descargar",
             icon: "download",
-            link: "/es/download/",
+            link: "/es/descargar/",
           },
           {
             text: "Registro de cambios",
@@ -1606,7 +1606,7 @@ export const localesconfig = {
               {
                 text: "Introducción",
                 icon: "ellipsis",
-                link: "/es/getting-started/",
+                link: "/es/empezando/",
               },
             ],
           },
@@ -1614,7 +1614,7 @@ export const localesconfig = {
       },
     ],
     sidebar: [
-      { text: 'Descargar', link: '/es/download/' },
+      { text: 'Descargar', link: '/es/descargar/' },
       { text: 'Registro de cambios', link: '/es/changelogs/' },
       { text: 'Contribuir', link: '/docs/contribute' },
       {
@@ -1622,7 +1622,7 @@ export const localesconfig = {
         icon: "book",
         prefix: "guide/",
         children: [
-          { text: 'Introducción', link: '/es/getting-started/' },
+          { text: 'Introducción', link: '/es/empezando/' },
           { text: 'Bifurcaciones', link: '/es/others/' },
         ],
       },
