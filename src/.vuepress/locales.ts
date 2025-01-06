@@ -28,7 +28,7 @@ export const localesconfig = {
               {
                 text: "Introduction",
                 icon: "ellipsis",
-                link: "/getting-started/",
+                link: "/docs/getting-started/",
               },
               {
                 text: 'Features',
