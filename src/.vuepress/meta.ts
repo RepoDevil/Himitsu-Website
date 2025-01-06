@@ -2,9 +2,9 @@ const locales = {
   "/": {
   lang: "en-US",
   title: "Himitsu",
-  description: "We who shall not be named",
+  description: "Anime. Manga. Streaming. Tracking. Socializing.",
   },
-  "/ES/": {
+  "/es/": {
       lang: "es-ES",
       title: "Himitsu",
       description: "Un secreto tan bueno que hasta el nombre está prohibido.",
