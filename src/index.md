@@ -16,7 +16,7 @@ actions:
 
 features:
 - title: Tracking
-  details: Automatically keep track of your series while reading online or offline with AniList, MyAnimeList, and cloud sync.
+  details: Automatically keep track of your online and offline progress across devices with AniList, MyAnimeList, and cloud sync.
   icon: https://himitsu2.vercel.app/assets/icon/reload.svg
   link: /docs/guides/tracking
 - title: Customization
