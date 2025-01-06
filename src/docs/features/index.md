@@ -20,9 +20,9 @@ next: false
 
 ### Trouble finding a title?
 
-If you encounter difficulties while searching for a specific series, consider the following points:
+If you encounter difficulties while searching for a specific series, try these tips:
 
-* Double-check your spelling and try again, as some sources might use **Japanese Romanized** titles instead of **English** ones.
+* Some sources may use **Japanese Romanized** titles instead of **English** ones.
   > Example: **Boku no Hero Academia** instead of **My Hero Academia**.
 
 * Some sources may use different spellings or wordings for titles.
