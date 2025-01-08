@@ -55,7 +55,7 @@ export default hopeTheme({
   hostname: "https://repodevil.netlify.app",
 
   author: {
-    name: "Moonpic",
+    name: "Moonpic, AbandonedCart",
   },
 
   iconAssets: "fontawesome",

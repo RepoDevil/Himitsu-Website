@@ -2,7 +2,7 @@ const locales = {
   "/": {
   lang: "en-US",
   title: "Himitsu",
-  description: "Anime. Manga. Streaming. Tracking. Socializing.",
+  description: "AiO AniList Client - Stream, Track, Socialize.",
   },
   "/es/": {
       lang: "es-ES",
