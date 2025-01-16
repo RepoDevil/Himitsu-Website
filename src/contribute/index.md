@@ -27,5 +27,4 @@ next: false
   <p><h4><i>
     Diclaimer: Donations are not a purchase and no purchase is necessary to use Himitsu or any resources associated with Himitsu.
   </i></h4></p>
-  <br />
 </center>
