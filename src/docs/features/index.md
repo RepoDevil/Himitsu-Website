@@ -67,6 +67,11 @@ Search timeout determines how long to attempt searching a specific source before
 
 Once enabled, clicking a torrent will launch it using the regular video player
 
+### Subtitle Translation
+`Settings => Anime => Player Settings (Subtitles) => Translate Subtitles`
+
+Enables translation of compatible subtitles to the language specified in `Subtitle Language`
+
 ### Client and Limited Modes
 
 #### Client Mode
