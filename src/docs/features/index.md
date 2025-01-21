@@ -18,18 +18,6 @@ next: false
 - The inbox icon on the notifications page will also open the activities page
 - AI recommendations (Sprout) and AniList Forums can be disabled in `UI Settings`
 
-### Trouble finding a title?
-
-If you encounter difficulties while searching for a specific series, try these tips:
-
-* Some sources may use **Japanese Romanized** titles instead of **English** ones.
-  > Example: **Boku no Hero Academia** instead of **My Hero Academia**.
-
-* Some sources may use different spellings or wordings for titles.
-  > Example: **Bungo Stray Dogs** instead of **Bungou Stray Dogs**
-
-  > Example: **3-gatsu no Lion** instead of **Sangatsu no Lion**.
-
 ### Reverse Source Search
 
 If you want to search for a title across all your sources, you can use the Reverse Source Search feature.

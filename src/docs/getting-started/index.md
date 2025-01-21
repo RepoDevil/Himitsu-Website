@@ -45,3 +45,16 @@ Extensions can be manually installed through `.apk` files.
 ::: caution
 Himitsu will not provide any support for unofficial extensions. Beware that any third-party repositories or extensions will have full access to the app and may contain malware.
 :::
+
+
+### Trouble finding a title?
+
+If you encounter difficulties while searching for a specific series, try these tips:
+
+* Some sources may use **Japanese Romanized** titles instead of **English** ones.
+  > Example: **Boku no Hero Academia** instead of **My Hero Academia**.
+
+* Some sources may use different spellings or wordings for titles.
+  > Example: **Bungo Stray Dogs** instead of **Bungou Stray Dogs**
+
+  > Example: **3-gatsu no Lion** instead of **Sangatsu no Lion**.
