@@ -19,11 +19,10 @@ export const localesconfig = {
       },
       {
         text: "Help",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "Guides",
-            icon: "lightbulb",
             children: [
               {
                 text: "Introduction",
@@ -92,11 +91,10 @@ export const localesconfig = {
       },
       {
         text: "Dokumente",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "Riglyne",
-            icon: "lightbulb",
             children: [
               {
                 text: "Inleiding",
@@ -149,11 +147,10 @@ export const localesconfig = {
       },
       {
         text: "المستندات",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "الدلائل",
-            icon: "lightbulb",
             children: [
               {
                 text: "مقدمة",
@@ -206,11 +203,10 @@ export const localesconfig = {
       },
       {
         text: "ডকুমেন্ট",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "নিৰ্দেশিকা",
-            icon: "lightbulb",
             children: [
               {
                 text: "পৰিচিতি",
@@ -263,11 +259,10 @@ export const localesconfig = {
       },
       {
         text: "Help",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "Guies",
-            icon: "lightbulb",
             children: [
               {
                 text: "Introducció",
@@ -320,11 +315,10 @@ export const localesconfig = {
       },
       {
         text: "文档",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "指南",
-            icon: "lightbulb",
             children: [
               {
                 text: "介绍",
@@ -377,11 +371,10 @@ export const localesconfig = {
       },
       {
         text: "文档",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "指南",
-            icon: "lightbulb",
             children: [
               {
                 text: "介绍",
@@ -434,11 +427,10 @@ export const localesconfig = {
       },
       {
         text: "文件",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "指南",
-            icon: "lightbulb",
             children: [
               {
                 text: "介紹",
@@ -491,11 +483,10 @@ export const localesconfig = {
       },
       {
         text: "Dokumentace",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "Průvodci",
-            icon: "lightbulb",
             children: [
               {
                 text: "Úvod",
@@ -548,11 +539,10 @@ export const localesconfig = {
       },
       {
         text: "Dokumentation",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "Guides",
-            icon: "lightbulb",
             children: [
               {
                 text: "Introduktion",
@@ -605,11 +595,10 @@ export const localesconfig = {
       },
       {
         text: "Documentatie",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "Handleidingen",
-            icon: "lightbulb",
             children: [
               {
                 text: "Introductie",
@@ -662,11 +651,10 @@ export const localesconfig = {
       },
       {
         text: "Dokumentaatio",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "Oppaat",
-            icon: "lightbulb",
             children: [
               {
                 text: "Johdanto",
@@ -719,11 +707,10 @@ export const localesconfig = {
       },
       {
         text: "Help",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "Guides",
-            icon: "lightbulb",
             children: [
               {
                 text: "Introduction",
@@ -776,11 +763,10 @@ export const localesconfig = {
       },
       {
         text: "Dokumentation",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "Anleitungen",
-            icon: "lightbulb",
             children: [
               {
                 text: "Einführung",
@@ -833,11 +819,10 @@ export const localesconfig = {
       },
       {
         text: "Εγχειρίδια",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "Οδηγοί",
-            icon: "lightbulb",
             children: [
               {
                 text: "Εισαγωγή",
@@ -890,11 +875,10 @@ export const localesconfig = {
       },
       {
         text: "מסמכים",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "מדריכים",
-            icon: "lightbulb",
             children: [
               {
                 text: "מבוא",
@@ -947,11 +931,10 @@ export const localesconfig = {
       },
       {
         text: "दस्तावेज़",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "मार्गदर्शिकाएँ",
-            icon: "lightbulb",
             children: [
               {
                 text: "परिचय",
@@ -1004,11 +987,10 @@ export const localesconfig = {
       },
       {
         text: "Dokumentáció",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "Útmutatók",
-            icon: "lightbulb",
             children: [
               {
                 text: "Bevezetés",
@@ -1061,11 +1043,10 @@ export const localesconfig = {
       },
       {
         text: "Documentazione",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "Guide",
-            icon: "lightbulb",
             children: [
               {
                 text: "Introduzione",
@@ -1118,11 +1099,10 @@ export const localesconfig = {
       },
       {
         text: "ドキュメント",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "ガイド",
-            icon: "lightbulb",
             children: [
               {
                 text: "はじめに",
@@ -1175,11 +1155,10 @@ export const localesconfig = {
       },
       {
         text: "문서",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "가이드",
-            icon: "lightbulb",
             children: [
               {
                 text: "소개",
@@ -1232,11 +1211,10 @@ export const localesconfig = {
       },
       {
         text: "Dokumentasjon",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "Guider",
-            icon: "lightbulb",
             children: [
               {
                 text: "Introduksjon",
@@ -1289,11 +1267,10 @@ export const localesconfig = {
       },
       {
         text: "Dokumentacja",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "Przewodniki",
-            icon: "lightbulb",
             children: [
               {
                 text: "Wprowadzenie",
@@ -1346,11 +1323,10 @@ export const localesconfig = {
       },
       {
         text: "Documentação",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "Guias",
-            icon: "lightbulb",
             children: [
               {
                 text: "Introdução",
@@ -1403,11 +1379,10 @@ export const localesconfig = {
       },
       {
         text: "Documentação",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "Guias",
-            icon: "lightbulb",
             children: [
               {
                 text: "Introdução",
@@ -1460,11 +1435,10 @@ export const localesconfig = {
       },
       {
         text: "Documentație",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "Ghiduri",
-            icon: "lightbulb",
             children: [
               {
                 text: "Introducere",
@@ -1517,11 +1491,10 @@ export const localesconfig = {
       },
       {
         text: "Документация",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "Руководства",
-            icon: "lightbulb",
             children: [
               {
                 text: "Введение",
@@ -1574,11 +1547,10 @@ export const localesconfig = {
       },
       {
         text: "Документација",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "Упутства",
-            icon: "lightbulb",
             children: [
               {
                 text: "Увод",
@@ -1631,11 +1603,10 @@ export const localesconfig = {
       },
       {
         text: "Documentación",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "Guías",
-            icon: "lightbulb",
             children: [
               {
                 text: "Introducción",
@@ -1688,11 +1659,10 @@ export const localesconfig = {
       },
       {
         text: "Dokumentation",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "Guider",
-            icon: "lightbulb",
             children: [
               {
                 text: "Introduktion",
@@ -1745,11 +1715,10 @@ export const localesconfig = {
       },
       {
         text: "Belgeler",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "Kılavuzlar",
-            icon: "lightbulb",
             children: [
               {
                 text: "Giriş",
@@ -1802,11 +1771,10 @@ export const localesconfig = {
       },
       {
         text: "Документація",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "Посібники",
-            icon: "lightbulb",
             children: [
               {
                 text: "Вступ",
@@ -1859,11 +1827,10 @@ export const localesconfig = {
       },
       {
         text: "Tài liệu",
-        icon: "folder",
+        icon: "book",
         children: [
           {
             text: "Hướng dẫn",
-            icon: "lightbulb",
             children: [
               {
                 text: "Giới thiệu",
