@@ -18,7 +18,7 @@ export const localesconfig = {
         ],
       },
       {
-        text: "Help",
+        text: "Guides",
         icon: "book",
         children: [
           {
@@ -258,7 +258,7 @@ export const localesconfig = {
         ],
       },
       {
-        text: "Help",
+        text: "Guies",
         icon: "book",
         children: [
           {
@@ -706,7 +706,7 @@ export const localesconfig = {
         ],
       },
       {
-        text: "Help",
+        text: "Guides",
         icon: "book",
         children: [
           {
