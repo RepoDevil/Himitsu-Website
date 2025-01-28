@@ -32,21 +32,26 @@ export const localesconfig = {
               },
               {
                 text: 'Features',
+                icon: "ellipsis",
                 link: '/docs/features/'
               },
               {
                 text: 'Policies',
+                icon: "ellipsis",
                 link: '/docs/privacy/'
               },
             ],
           },
         ],
       },
+      {
+        text: "Contribute",
+        link: '/contribute/'
+      }
     ],
     sidebar: [
       { text: 'Download', link: '/download/' },
       { text: 'Changelogs', link: '/changelogs/' },
-      { text: 'Contribute', link: '/contribute/' },
       {
         text: "Guides",
         icon: "book",
@@ -58,6 +63,7 @@ export const localesconfig = {
           { text: 'Alternatives', link: '/docs/others/' },
         ],
       },
+      { text: 'Contribute', link: '/contribute/' },
     ],
     footer: "Himitsu",
     displayFooter: true,
@@ -100,11 +106,11 @@ export const localesconfig = {
           },
         ],
       },
+      { text: 'Bydra', link: '/docs/contribute' },
     ],
     sidebar: [
       { text: 'Laai af', link: '/af/download/' },
       { text: 'Veranderlogs', link: '/af/changelogs/' },
-      { text: 'Bydra', link: '/docs/contribute' },
       {
         text: "Riglyne",
         icon: "book",
@@ -114,6 +120,7 @@ export const localesconfig = {
           { text: 'Vurke', link: '/af/others/' },
         ],
       },
+      { text: 'Bydra', link: '/docs/contribute' },
     ],
     footer: "Himitsu",
     displayFooter: true,
@@ -156,11 +163,11 @@ export const localesconfig = {
           },
         ],
       },
+      { text: 'المساهمة', link: '/docs/contribute' },
     ],
     sidebar: [
       { text: 'تحميل', link: '/ar/download/' },
       { text: 'سجل التغييرات', link: '/ar/changelogs/' },
-      { text: 'المساهمة', link: '/docs/contribute' },
       {
         text: "الدلائل",
         icon: "book",
@@ -170,6 +177,7 @@ export const localesconfig = {
           { text: 'فروكس', link: '/ar/others/' },
         ],
       },
+      { text: 'المساهمة', link: '/docs/contribute' },
     ],
     footer: "Himitsu",
     displayFooter: true,
@@ -212,11 +220,11 @@ export const localesconfig = {
           },
         ],
       },
+      { text: 'অবদান দিব', link: '/docs/contribute' },
     ],
     sidebar: [
       { text: 'ডাউনলোড', link: '/as/download/' },
       { text: 'পালনাতলিকা', link: '/as/changelogs/' },
-      { text: 'অবদান দিব', link: '/docs/contribute' },
       {
         text: "নিৰ্দেশিকা",
         icon: "book",
@@ -226,6 +234,7 @@ export const localesconfig = {
           { text: 'ফৰ্কসমূহ', link: '/as/others/' },
         ],
       },
+      { text: 'অবদান দিব', link: '/docs/contribute' },
     ],
     footer: "Himitsu",
     displayFooter: true,
@@ -268,11 +277,11 @@ export const localesconfig = {
           },
         ],
       },
+      { text: 'Contribueix', link: '/docs/contribute' },
     ],
     sidebar: [
       { text: 'Baixa', link: '/ca/download/' },
       { text: 'Canvis', link: '/ca/changelogs/' },
-      { text: 'Contribueix', link: '/docs/contribute' },
       {
         text: "Guies",
         icon: "book",
@@ -282,6 +291,7 @@ export const localesconfig = {
           { text: 'Alternatives', link: '/ca/others/' },
         ],
       },
+      { text: 'Contribueix', link: '/docs/contribute' },
     ],
     footer: "Himitsu",
     displayFooter: true,
