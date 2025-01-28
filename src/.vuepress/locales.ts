@@ -46,6 +46,7 @@ export const localesconfig = {
       },
       {
         text: "Contribute",
+        icon: "circle-dollar-to-slot",
         link: '/contribute/'
       }
     ],
