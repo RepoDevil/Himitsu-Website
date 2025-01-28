@@ -43,6 +43,13 @@ All progress data is stored using an anonymous authentication.
 
 On newer Android devices, holding down the application icon from your device launcher will open a menu of common actions. For example, a messaging application will list recent contacts. For Himitsu, this will be the most recent read or watched items.
 
+### Subtitle Translation
+`Settings => Anime => Player Settings (Subtitles) => Translate Subtitles`
+
+Enables translation of compatible subtitles to the language currently selected in `Subtitle Language`
+
+The translation and language settings are also available using the translate button in the player UI.
+
 ### Loading Affinity
 `Settings => UI Settings => Loading Affinity`
 
@@ -64,7 +71,7 @@ _Warning: Enabling with slow sources or internet may cause delayed loading of me
 
 Attempts to sort sources based on a timed quick search of their content using the selected media title
 
-`Settings => Common => Source Search Yimeout`
+`Settings => Common => Source Search Timeout`
 
 Search timeout determines how long to attempt searching a specific source before skipping to the next
 
@@ -74,13 +81,6 @@ Search timeout determines how long to attempt searching a specific source before
 - `Settings => Anime => Internal TorrServer` will enable persistent torrent access
 
 Once enabled, clicking a torrent will launch it using the regular video player
-
-### Subtitle Translation
-`Settings => Anime => Player Settings (Subtitles) => Translate Subtitles`
-
-Enables translation of compatible subtitles to the language currently selected in `Subtitle Language`
-
-The translation and language settings are also available using the translate button in the player UI.
 
 ### Client and Limited Modes
 
