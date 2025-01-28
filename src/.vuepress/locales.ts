@@ -37,7 +37,7 @@ export const localesconfig = {
               },
               {
                 text: 'Policies',
-                icon: "ellipsis",
+                icon: "shield-halved",
                 link: '/docs/privacy/'
               },
             ],

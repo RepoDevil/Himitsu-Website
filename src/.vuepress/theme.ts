@@ -47,7 +47,8 @@ const generateSidebar = () => {
 export default hopeTheme({
   navbarLayout: {
     start: ["Search"],
-    end: ["Links", "Language", "Outlook", "Repo"],
+    center: ["Links"],
+    end: ["Language", "Outlook", "Repo"],
   },
 
   sidebar: generateSidebar(),
@@ -60,6 +61,8 @@ export default hopeTheme({
 
   iconAssets: "fontawesome",
 
+  logo: "logo.svg",
+  logoDark: "logo.svg",
   repo: "RepoDevil/Himitsu",
   docsDir: "src",
 
