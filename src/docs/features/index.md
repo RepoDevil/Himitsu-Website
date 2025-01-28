@@ -78,7 +78,9 @@ Once enabled, clicking a torrent will launch it using the regular video player
 ### Subtitle Translation
 `Settings => Anime => Player Settings (Subtitles) => Translate Subtitles`
 
-Enables translation of compatible subtitles to the language specified in `Subtitle Language`
+Enables translation of compatible subtitles to the language currently selected in `Subtitle Language`
+
+The translation and language settings are also available using the translate button in the player UI.
 
 ### Client and Limited Modes
 
