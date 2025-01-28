@@ -48,6 +48,14 @@ On newer Android devices, holding down the application icon from your device lau
 
 Some devices and internet connections are faster than others. When more data is loaded at once, fewer loads need to be performed. When less data is loaded at once, loading is completed faster. Affinity is how this is balanced for the device and connection using it.
 
+Affinity is not applied to certain items that require always retrieving the maximum number of values, such as search results and notifications.
+
+### Episode Timeout
+`Settings => Anime => Anify Episode Timeout`
+`Settings => Anime => Kitsu Episode Timeout`
+
+Episode information includes thumbnails, descriptions, and titles of individual episodes. While this information does improve the overall experience, the providers can occasionally be slow to respond. This determines if and how long to wait before skipping a provider.
+
 ### Source Prioritization
 
 _Warning: Enabling with slow sources or internet may cause delayed loading of media pages_
