@@ -30,7 +30,7 @@ Follow these steps:
 
 ### Adding External Progress
 
-Long press the item cover image to open the list editor and add, modify, or delete progress.
+Long press the item cover image to open the list editor and add, modify, or delete progress. This dialog is also available at the top of the watch or read page for each title.
 
 ### Syncing Between Devices
 `Settings => Common => Sync Episode / Chapter Progress`
