@@ -32,9 +32,13 @@ External repositories add additional sources to **Himitsu**.
 
 You can add external repositories by visiting the `Extensions` page of the app settings or clicking the GitHub icon in the top right of the `Extensions` page. 
 
-Once there, tap **Add [Anime, Manga, or Novel] Repo** and input the repository URL where the `index.min.json` is located.
+Once there, tap **Add [Anime, Manga, or Novel] Repo** and input the raw URL of the `index.min.json` file using the format:
 
- Repositories can also be entered using the format `type:branch@user/repository` where type is aniyomi for anime, tachiyomi for manga, or novels for novels.
+`https://raw.githubusercontent/user/repository/branch/index.min.json`
+
+ Repositories can also be entered in "short form" by using aniyomi for anime, tachiyomi for manga, or novels for novels and the format:
+
+ `type:branch@user/repository`
 
 
 ::: caution
