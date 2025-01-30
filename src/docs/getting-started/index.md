@@ -48,7 +48,7 @@ Once you've added a repository, it will automatically refresh.
 *You can now tap the download button next to extensions to install them.*
 @tab Manual extensions
 
-Extensions can be manually installed through `.apk` files.
+Extensions can be manually installed through `.apk` files and will appear in the installed extension life for their particular type.
 
 ::: caution
 Himitsu will not provide any support for extensions. Beware that any third-party repositories or extensions will have full access to the app and may contain malware.
