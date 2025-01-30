@@ -28,13 +28,15 @@ Once **Himitsu** is installed on your device, you can bring your own content to 
 ::: tabs
 
 @tab External repositories
-External repositories add additional sources to **Himitsu**. You can add external repositories by clicking the icon in the top right and selecting `Settings => Extensions` and tapping **Add [Type] Repo** for the repo type (Anime, Manga, or Novels).
+External repositories add additional sources to **Himitsu**. 
 
-Once there, you can add repositories by inputting the repository URLs ending with `index.min.json`.
+You can add external repositories by visiting the `Extensions` page of the app settings or clicking the icon in the top right of the `Extensions` page. 
+
+Once there, tap **Add [category] Repo** for Anime, Manga, or Novel repositories Input the repository URL where the `index.min.json` is located or use `type:branch@user/repository` (replacing type with aniyomi for anime, tachiyomi for manga, or novels for novels).
 
 
 ::: caution
-Himitsu will not provide any support for unofficial repositories. Beware that any third-party repositories or extensions will have full access to the app and may contain malware.
+Himitsu will not provide any support for repositories. Beware that any third-party repositories or extensions will have full access to the app and may contain malware.
 ::: note
 Once you've added a repository, it will automatically refresh.
 *You can now tap the download button next to extensions to install them.*
@@ -43,7 +45,7 @@ Once you've added a repository, it will automatically refresh.
 Extensions can be manually installed through `.apk` files.
 
 ::: caution
-Himitsu will not provide any support for unofficial extensions. Beware that any third-party repositories or extensions will have full access to the app and may contain malware.
+Himitsu will not provide any support for extensions. Beware that any third-party repositories or extensions will have full access to the app and may contain malware.
 :::
 
 
