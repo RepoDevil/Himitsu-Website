@@ -65,7 +65,7 @@ Episode information includes thumbnails, descriptions, and titles of individual 
 
 ### Source Prioritization
 
-_Warning: Enabling with slow sources or internet may cause delayed loading of media pages_
+_Warning: Enabling with slow sources or internet may cause loading delays_
 
 `Settings => Common => Prioritize Source List`
 
