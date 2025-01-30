@@ -36,7 +36,7 @@ Once there, tap **Add [Anime, Manga, or Novel] Repo** and input the raw URL of t
 
 `https://raw.githubusercontent/user/repository/branch/index.min.json`
 
- Repositories can also be entered in "short form" by using aniyomi for anime, tachiyomi for manga, or novels for novels and the format:
+ Repositories can also be entered in "short form" by using `aniyomi` for anime, `tachiyomi` for manga, or `novels` for novels in the format:
 
  `type:branch@user/repository`
 
