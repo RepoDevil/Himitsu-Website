@@ -55,7 +55,7 @@ The translation and language settings are also available using the translate but
 
 Some devices and internet connections are faster than others. When more data is loaded at once, fewer loads need to be performed. When less data is loaded at once, loading is completed faster. Affinity is how this is balanced for the device and connection using it.
 
-Affinity is not applied to certain items that require always retrieving the maximum number of values, such as search results and notifications.
+Affinity is not applied to certain items that always require retrieving the maximum number of values, such as search results and notifications.
 
 ### Episode Timeout
 `Settings => Anime => Anify Episode Timeout`
