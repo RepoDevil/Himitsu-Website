@@ -69,11 +69,7 @@ _Warning: Enabling with slow sources or internet may cause delayed loading of me
 
 `Settings => Common => Prioritize Source List`
 
-Attempts to sort sources based on a timed quick search of their content using the selected media title
-
-`Settings => Common => Source Search Timeout`
-
-Search timeout determines how long to attempt searching a specific source before skipping to the next
+Attempts to sort sources based on a timed quick search of their content using the title of the selected item. This search will not exceed 1 second per source, but can easily become quite long with a lot of slow searches.
 
 ### Torrent Support
 
