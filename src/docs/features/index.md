@@ -45,7 +45,9 @@ On newer Android devices, holding down the application icon from your device lau
 
 ### Importing Downloads
 
-Each media page includes an option to import anime, manga, and novels that were obtained from other sources. The import button appears on each item, but also next to the subscribe button. Selecting the general import button will require first selecting the episode, chapter, or volume. Keep in mind, these files are currently **moved** into the app download folder. Deleting them will remove the original file.
+Each media page includes an option to import anime, manga, and novels that were obtained from other sources. The import button appears on each item, but also next to the subscribe button. Selecting the general import button will require first selecting the episode, chapter, or volume. 
+
+Keep in mind, these files are currently **moved** into the app download folder. Deleting them will remove the original file.
 
 ### Subtitle Translation
 `Settings => Anime => Player Settings (Subtitles) => Translate Subtitles`
