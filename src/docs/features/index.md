@@ -94,6 +94,10 @@ Client mode allows use of Himitsu as a regular AniList tracker with some integra
 
 Limited mode is a modification on the offline mode common in other apps. Unlike most apps, some features that use internet may still be enabled. Options are provided to enable an offline database, the continue watching and reading list, and extensions. Tracking can also be stored until returning online.
 
+`Settings => System => Offline Db in Limited Mode`
+
+The offline database is enabled by default, but not available until it has been updated. Similarly, it  is unavailable if it is removed (until updating again). The database is always growing and currently takes about 40MB. To save on bandwidth and space, all update checks are manually initiated.
+
 ### Securing Himitsu
 `Settings => System => Biometric Verification`
 
