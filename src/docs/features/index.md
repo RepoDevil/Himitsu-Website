@@ -64,7 +64,7 @@ Easy setup allows configuring a number of loading features that may be confusing
 Each of the settings configured by easy settings can be individually modified, so feel free to use this as a starting point to make additional changes.
 
  - Defaults: Balanced settings that are predefined when installing Himitsu
- - Fast Loading: Absolute minimum values to still have the important info, but drops some of the extra
+ - Fast Loading: Absolute minimum values to still have important info, but drops some of the extras
  - More Content: Ensures all info and features are shown at the potential cost of longer loading times
 
 ### Loading Affinity
