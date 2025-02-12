@@ -45,7 +45,7 @@ On newer Android devices, holding down the application icon from your device lau
 
 ### Importing Downloads
 
-Each media page includes an option to import anime, manga, and novels that were obtained from other sources. The import button appears on each item, but also next to the subscribe button. Selecting the general import button will require first selecting the episode, chapter, or volume. 
+Each media page includes an option to import anime, manga, and novels that were obtained from other sources. The import button appears on each item, but also next to the subscribe button. Selecting the general import button will require first selecting the episode, chapter, or volume.
 
 Keep in mind, these files are currently **moved** into the app download folder. Deleting them will remove the original file.
 
@@ -55,6 +55,20 @@ Keep in mind, these files are currently **moved** into the app download folder. 
 Enables translation of compatible subtitles to the language currently selected in `Subtitle Language`
 
 The translation and language settings are also available using the translate button in the player UI.
+
+### Easy Setup
+`Settings => Easy Setup`
+
+Easy setup allows configuring a number of loading features that may be confusing on their own by selecting what is most important to you. The features being configured include `Loading Affinity`, `Episode Timeout`, `Source Prioritization`, `Social in Media`, `Trending Covers`, and `YouTube Banners`
+
+Each of the settings configured by easy settings can be individually modified, so feel free to use this as a starting point to make additional changes.
+
+ - Defaults
+ These are the balanced settings that are predefined when installing Himitsu
+ - Fast Loading
+ These are considered the absolute minimum values to still have most functionality, but some info may be lost
+ - More Content
+ These are the maximum values to make sure all info is presented at the potential cost of longer loading times
 
 ### Loading Affinity
 `Settings => UI Settings => Loading Affinity`
@@ -108,8 +122,8 @@ Biometric verification allows using fingerprint or, when supported by the device
 
 Clicking on the avatar and dragging it away from its origin will produce a second, identical avatar that can be moved freely about the screen.
 
-When on the home screen, clicking this button will open a list of all subscribed items similar to the quick resume menu and long pressing will open the settings dialog. 
- 
+When on the home screen, clicking this button will open a list of all subscribed items similar to the quick resume menu and long pressing will open the settings dialog.
+
 On the anime and manga pages, it will function exactly like the regular avatar. Clicking will open the settings dialog and long pressing will open the notifications page.
- 
+
 The floating button will lock back in place when leaving a screen or dragging it back to the main avatar. This feature is strictly for novelty purposes.
