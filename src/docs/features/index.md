@@ -59,16 +59,13 @@ The translation and language settings are also available using the translate but
 ### Easy Setup
 `Settings => Easy Setup`
 
-Easy setup allows configuring a number of loading features that may be confusing on their own by selecting what is most important to you. The features being configured include `Loading Affinity`, `Episode Timeout`, `Source Prioritization`, `Social in Media`, `Trending Covers`, and `YouTube Banners`
+Easy setup allows configuring a number of loading features that may be confusing on their own by selecting what is most important to you. The features being configured include `Loading Affinity`, `Episode Timeout`, `Source Prioritization`, `Social Stats in Media`, and `Use Trailer as Banner`
 
 Each of the settings configured by easy settings can be individually modified, so feel free to use this as a starting point to make additional changes.
 
- - Defaults
- These are the balanced settings that are predefined when installing Himitsu
- - Fast Loading
- These are considered the absolute minimum values to still have most functionality, but some info may be lost
- - More Content
- These are the maximum values to make sure all info is presented at the potential cost of longer loading times
+ - Defaults: Balanced settings that are predefined when installing Himitsu
+ - Fast Loading: Absolute minimum values to still have the important info, but drops some of the extra
+ - More Content: Ensures all info and features are shown at the potential cost of longer loading times
 
 ### Loading Affinity
 `Settings => UI Settings => Loading Affinity`
@@ -90,6 +87,24 @@ _Warning: Enabling with slow sources or internet may cause loading delays_
 `Settings => Common => Prioritize Source List`
 
 Attempts to sort sources based on a timed quick search of their content using the title of the selected item. This search will not exceed 1 second per source, but can easily become quite long with a lot of slow searches.
+
+### Social Stats in Media
+
+_Warning: Enabling with a large follow list or slow internet may cause loading delays_
+
+`Settings => Common => Social Stats in Media`
+
+Social stats are the reading and watching progress of other users you follow and this setting determines whether they will be displayed directly in the media info for an anime or manga.
+
+### Use Trailer as Banner
+`Settings => UI Settings => Use Trailer as Banner`
+
+Plays the trailer at the top of the media page for an anime or manga then returns to the original banner when it is complete. Sound is disabled by default, but can be enabled using the button on the individual trailer.
+
+### Covers in Trending Panel
+`Settings => UI Settings => Covers in Trending Panel`
+
+Determines whether the "cover image" for a given anime or manga will be displayed in the banner across the top of the anime and manga pages. Disabling this option may help smaller screens to not feel overwhelmed.
 
 ### Torrent Support
 
