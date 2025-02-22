@@ -19,11 +19,12 @@ features:
   details: Automatically keep track of your online and offline progress across devices with AniList, MyAnimeList, and cloud sync.
   icon: https://himitsu2.vercel.app/assets/icon/reload.svg
   link: /docs/features/
+- title: Extensions
+  details: Bring your own anime, manga, and more or use our integrated browser to access streaming content from popular services.
+  icon: https://himitsu2.vercel.app/assets/icon/addon.svg
+  link: /docs/getting-started/
 - title: Customization
   details: Make your content and Himitsu look the way you want with a library of settings that can be easily searched and configured.
   icon: https://himitsu2.vercel.app/assets/icon/regulate.svg
   link: /docs/features/
-- title: Extensions
-  details: Bring your own anime, manga, and more or use our integrated browser to access streaming content from popular services.
-  icon: https://himitsu2.vercel.app/assets/icon/addon.svg
 ---
