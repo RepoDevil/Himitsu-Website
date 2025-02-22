@@ -38,6 +38,10 @@ Long press the item cover image to open the list editor and add, modify, or dele
 Requires logging in to AniList in order to create a sync profile.
 All progress data is stored using an anonymous authentication.
 
+### Using External Players
+
+Long press an item from the `Select Server` dialog to open it in your default media player.
+
 ### Quick Resume
 `Settings => Common => Add Shortcuts to Launcher`
 
