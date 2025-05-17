@@ -21,11 +21,11 @@ export interface AppRelease {
 
 async function data(): Promise<AppRelease> {
   const stableResponse = await axios.get<GitHubRelease>(
-    `https://himitsu-proxy.vercel.app/api/himitsu/releases/latest`
+    `https://api.github.com/repos/RepoDevil/Himitsu/releases/latest`
   )
 
   const betaResponse = await axios.get<GitHubRelease>(
-    `https://himitsu-proxy.vercel.app/api/tsubaki/releases/latest`
+    `https://api.github.com/repos/RepoDevil/Himitsu/releases/latest`
   )
 
   return {
